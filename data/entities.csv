@@ -1,0 +1,668 @@
+id,name,type,description,human_readable_id,graph_embedding,text_unit_ids,description_embedding
+b45241d70f0e43fca764df95b2b81f77,"""GOWEI""","""ORGANIZATION""","GOWEI is an organization known for its comprehensive involvement in the production, testing, and distribution of electric vehicles, including electric tricycles and two-wheelers. The brand is recognized for manufacturing a variety of electric vehicles such as the GOWEI3.0-8真空轮休闲电动三轮车, specifically designed for elderly and female users, and the CP900 electric two-wheeler, known for its advanced design in suspension and durability. GOWEI's products are characterized by modern designs, EEC certification, and specialized features for cargo transportation and leisure use. The organization is also deeply involved in logistics and cargo handling, as evidenced by activities such as loading goods into containers and operating electric forklifts. GOWEI's operations extend to the evaluation and introduction of various types of vehicles, including delivery electric bikes and leisure electric tricycles, focusing on design aesthetics, practicality, and safety. The brand's commitment to quality and performance is highlighted through its well-organized production workshops and professional showroom environments, where customers can test drive their products. GOWEI's diverse product offerings and robust manufacturing processes make it a significant player in the electric vehicle and logistics industries.",0,,"['00f59d36c4c378594bc3e6b592be352b' '03e5f0427639b8c19d06f0dd48917656'
+ '049e8787154ca6499c48ddb9a6db8e03' '054b1de03abfd21640f92fbcb1e0f78e'
+ '09ca9a61b002387d49497772aa0f8df4' '0dae6520bf24f2ffb90d02f43e62349d'
+ '0f09df3d97e7d6ca0ffa3bc9a2211361' '10ef4070081c8cb3686c07da94a36c4b'
+ '1378061b3f09947483c0d8250d53c52e' '14e5f055707dde603b4258f17471e849'
+ '16a3388485f5dc6c3d6825606baa1666' '19245d5aad7e86ddbc033b15a375066e'
+ '1e905d9adf719f55f747f9d6f27fe498' '20809ba38434d507d2e2a13e180ce90c'
+ '2235b0112d327b6f61bedb5f63513d93' '2871bb2a838347784db8c18500bfb3d6'
+ '2a246ce9def5a1b31fe2a4dd387ec582' '2bfce37c170b07dc1f0455c1c113aa33'
+ '2dd0d8ce00cac3010d8d6f18bb556def' '305a7e063d6a693cc1391bdaa7f3b68e'
+ '310055c05ddf538e4ee6a060a3402c1a' '36ee14a1acc00e4a5e6711bb931fc4de'
+ '38046dfd3e0af10881886c3255cf00f0' '3857655169c6acf94d181018626b5da0'
+ '387552cfd2b85e3bb039c7803cfdd3fb' '3c672feda9ecc35630dd32afd4e069f8'
+ '3e05cfc73c24c5a601d66872e8129d34' '3f4a5d06c454ed39f51a8bc3cd93be00'
+ '41cfe1519409130feeb08ce0d47c96d0' '4858949de0d193b1373fbfdb50d13c71'
+ '4909eecf93a9ecd5a5c7782b9879f57c' '4c4b3f6164e6c1c1f35e42882d128003'
+ '4f1953659ad83091b2ee17539c7494ce' '4f24c9533772e40a7553afa10e88587a'
+ '518d8d4573c1cbb63e8041e02c4c1451' '52a2ffbfbd3e5ff6ce216246630833d8'
+ '52b766c1971150e0dafc6f8ae498076b' '52b7d156e0d821aaa4f0df9d2ef01c1b'
+ '566c4f22aea62262ad0fbead55ffc04c' '5bece06ab300c268e54c1648338a77b0'
+ '5d010f3d196a8d7fdcdccc932fd51181' '5f0bf110fd9404a59f02137a18953c03'
+ '6201ba252ddf9bbbd8354e29d4eef7b7' '63f5be595bacef23f5c9d4ecafb56f68'
+ '688c3a7fd7828b111c09ff8fc827b216' '68f3a7fcfb42e437005209782e589fcb'
+ '6e43fd48d7ee2fb7798b805fee8ad531' '6e94bed8124db618e21062b69af6dab6'
+ '70bd2d769eecd861a3b7ef394e62a4e6' '70d682fe95d80fbfc14cb8c26248e8c0'
+ '743aa886d9a651b82ace66e5e6fbdf70' '778b909250a7f492231efee84460b062'
+ '78dc00c6a56e2757292034dd595951a3' '7acf66bdef0daa00bf1f5d1b6e38e05f'
+ '7bdb82571e88fd1ba3bc6f986260676f' '7d9cb75910db9846b75b600ac61841cb'
+ '802f4b29a8abc48e6c0b825cef4c104b' '80407debab8d3468cf6db0ce78296f93'
+ '84b209fa62116d8803fd8181c3ccfa1a' '8be290f02981d162ef05fdf88bbb4462'
+ '97f45ec23ce7d8284dc6a6e6ebed1134' '99303a7e746e26805c54947cd3d1645c'
+ '9a9d9faac55c7f6a08d3e57847bdcb92' '9fa7ce8bbc4066276658927034f6ec8f'
+ 'a8396d1f34d0b773b23aaf0eaa6351a5' 'b225bd529f7b57f889ca46915da7d293'
+ 'b4a8f27dcc185d90a8ab25dd04823c42' 'b5f4b37f2756e2b9625ad36a2cccaf9f'
+ 'c13cc646bcdb2b30c2b7dfa1c947c34d' 'c6c99f2e35dcb9df2031cb0fc648e919'
+ 'c78953af3e339c6bfcd1dcb0e57042e7' 'cd7551656691a187ec93042ddb968389'
+ 'ceb871f757e33844841b6fe026be661f' 'd04d405c95addbe0b15bea024f1c8afd'
+ 'd5a4c8367eff21093b533db24ae2621f' 'd92b0ef7d72dc378fea39d921cf09ec6'
+ 'df20428a20afaaff17ab012a6305bf45' 'dff66925833a825bc704f478396370aa'
+ 'e047514a79b698fa1907d610299b11db' 'e1a095248bce10bc00cb166c5268d154'
+ 'e6047e0c24c8d6a88dd59bfc923e270c' 'e7e464692968bb33b1aed8b722751300'
+ 'e94400372994574bac5fd70495e024eb' 'ea35a4a25bd286420d303af63e2d0cfe'
+ 'ebe95f8c725f871c31b5af529d08706a' 'f09c52489f639172b19bd1f3b4d5bcfa'
+ 'f0b7a59a2b8f5308c48db55aecc44c8e' 'f0dc4da2fcced627eb2b6ea00977272e'
+ 'f4972594e357d8948f68deac46098a6d' 'f5e4e62d297a4100cd834cf7ddf597b1'
+ 'f7fca66d11461f657aeda78f227ddf4e' 'f85d550625f76babc79546ed9e2f88a4'
+ 'fa47b16ae91e24b30e20f5a08e790c08']","[ 0.04915282 -0.00812586  0.0213825  ...  0.04117447 -0.00709971
+  0.0200485 ]"
+4119fd06010c494caa07f439b333f4c5,"""GOWEI FACTORY WAREHOUSE""","""GEO""","""The GOWEI Factory Warehouse is a location where new electric tricycles are stored, ready for shipment, and is characterized by a clean and orderly environment.""",1,,['387552cfd2b85e3bb039c7803cfdd3fb'],"[ 0.03272253 -0.00147548 -0.01312941 ...  0.02817774 -0.01999711
+  0.02630932]"
+d3835bf3dda84ead99deadbeac5d0d7d,"""ELECTRIC TRICYCLES""","""EVENT""","""The production and storage of electric tricycles at GOWEI's factory warehouse is an ongoing event, showcasing the brand's products.""",2,,['387552cfd2b85e3bb039c7803cfdd3fb'],"[ 0.05217654  0.0014215  -0.01617526 ...  0.03765345 -0.0157489
+  0.00760131]"
+077d2820ae1845bcbb1803379a3d1eae,"""GOWEI电动三轮车生产车间""","""GEO""","""The GOWEI electric tricycle production workshop is a location where electric tricycles are manufactured, featuring a well-organized layout with industrial fans, pipes, wires, and conveyor belts.""",3,,['4f1953659ad83091b2ee17539c7494ce'],"[ 0.02166637 -0.01722083  0.01917417 ...  0.037338   -0.02548324
+  0.02959199]"
+3671ea0dd4e84c1a9b02c5ab2c8f4bac,"""工作人员""","""PERSON""","The workers at GOWEI electric tricycle workshop are individuals who are actively engaged in various stages of the production process. They are involved in tasks such as painting and assembly of electric vehicles, organizing material storage areas to ensure systematic and orderly material management, and handling electric vehicle parts, specifically placing them into a blue plastic box. Additionally, the workers are responsible for quality inspections, including the final quality inspection and packaging of vehicle components for shipment, as well as inspecting painted electric vehicle parts. These tasks collectively contribute to the efficient and high-quality production of electric tricycles at GOWEI.",4,,"['01e6b8d7b1f4b041d5887838550f984e' '0dc4e862433c2612550642af63394c2e'
+ '2e8aae979bfab5f1e482e692c4b6cee6' '316ffd06d84acff557556680d6f7544e'
+ '4ec6d7f104ec99a4be14bdc2baf9d37a' '4f1953659ad83091b2ee17539c7494ce'
+ '5f0bf110fd9404a59f02137a18953c03' '66a124519c585725bdead925f29dd527'
+ 'df0fba68b6162db75d1c3bc777b77c40' 'df20428a20afaaff17ab012a6305bf45']","[ 0.04889595  0.0167872  -0.00976072 ...  0.03667812 -0.0225882
+  0.02336413]"
+19a7f254a5d64566ab5cc15472df02de,"""电动三轮车""","""EVENT""","The entity ""\u7535\u52a8\u4e09\u8f6e\u8f66"" encompasses a range of aspects related to electric tricycles. At its core, it represents an organization that specializes in the production and assembly of electric three-wheel vehicles, such as those being actively assembled and readied in the GOWEI workshop. These vehicles, characterized by their modern design, functional headlights, and sturdy body structure, are versatile and are used for various purposes, including delivery services in urban areas. The term also refers to the specific environment and geographical context where these electric tricycles are utilized, often featuring elements like a wooden gate and being relevant to industrial manufacturing settings. Overall, ""\u7535\u52a8\u4e09\u8f6e\u8f66"" highlights the practicality and adaptability of electric tricycles, designed for both urban and leisure travel, and underscores their importance in modern transportation and delivery solutions.",5,,"['4f1953659ad83091b2ee17539c7494ce' '60049903e5bf69c0fddafcb54640f847'
+ '84b209fa62116d8803fd8181c3ccfa1a' '8c6420028d52a752844cf0168319df06'
+ 'bf8e53e1a74a592c4e623c80d0f8c409' 'cd7551656691a187ec93042ddb968389'
+ 'ea35a4a25bd286420d303af63e2d0cfe' 'f85d550625f76babc79546ed9e2f88a4']","[ 0.02493716 -0.02256286  0.00101359 ...  0.05898278 -0.03765567
+  0.03673927]"
+e7ffaee9d31d4d3c96e04f911d0a8f9e,"""男士""","""PERSON""","""男士 is a person who is seen test-driving a GOWEI electric三轮车 in a rural setting.""",6,,['054b1de03abfd21640f92fbcb1e0f78e'],"[ 0.03225185 -0.01575569 -0.03469267 ...  0.02920767 -0.0355977
+  0.02316045]"
+f7e11b0e297a44a896dc67928368f600,"""乡村道路""","""GEO""","""\u4e61\u6751\u9053\u8def"" is a rural road characterized by a mix of gravel and dirt, dense vegetation, and dense grass on both sides, under clear weather conditions and a flat surface. This geographic location is used for the test-driving and demonstration of electric tricycles, specifically GOWEI's models, to evaluate their stability and comfort. The area is both sunny and suitable for showcasing the capabilities of the electric tricycles in a natural, rural setting.",7,,"['054b1de03abfd21640f92fbcb1e0f78e' '0dae6520bf24f2ffb90d02f43e62349d'
+ '2bfce37c170b07dc1f0455c1c113aa33' 'b225bd529f7b57f889ca46915da7d293']","[ 0.03629889 -0.01480717  0.0345412  ...  0.01841576 -0.05890912
+  0.02018676]"
+1fd3fa8bb5a2408790042ab9573779ee,"""试驾活动""","""EVENT""",试驾活动是一项针对美国顾客的特别活动，旨在邀请他们前往GOWEI工厂，亲自体验并试驾GOWEI电动三轮车。通过这一活动，顾客不仅能够直接感受车辆的性能，还能提供他们的评估反馈，从而帮助GOWEI改进产品和服务。,8,,"['054b1de03abfd21640f92fbcb1e0f78e' '8be290f02981d162ef05fdf88bbb4462'
+ 'f5e4e62d297a4100cd834cf7ddf597b1']","[ 0.02316555  0.00980081 -0.04399372 ...  0.03089512 -0.03052484
+ -0.01299446]"
+27f9fbe6ad8c4a8b9acee0d3596ed57c,"""美国当地客户""","""PERSON""","""美国当地客户 is a person who is test-driving a GOWEI electric tricycle, demonstrating its practical use in an outdoor environment.""",9,,['2871bb2a838347784db8c18500bfb3d6'],"[ 0.00925264  0.0071533  -0.00335929 ...  0.00692004 -0.03013998
+  0.00751379]"
+e1fd0e904a53409aada44442f23a51cb,"""美国""","""GEO""","The United States is a country where GOWEI electric tricycles are being tested and used by local customers, who have also provided feedback on their experiences with the product.",10,,['16a3388485f5dc6c3d6825606baa1666' '2871bb2a838347784db8c18500bfb3d6'],"[ 0.02490091 -0.01228124  0.0002284  ...  0.02819413 -0.02228456
+ -0.00619269]"
+de988724cfdf45cebfba3b13c43ceede,"""试驾GOWEI电动三轮车""","""EVENT""","""试驾GOWEI电动三轮车 is an event where a local customer in the United States is test-driving a GOWEI electric tricycle, showcasing its functionality and usability.""",11,,['2871bb2a838347784db8c18500bfb3d6'],"[ 0.01560084 -0.00644383 -0.02141117 ...  0.04533076 -0.0172262
+  0.02687594]"
+96aad7cb4b7d40e9b7e13b94a67af206,"""美国用户""","""PERSON""","""\u7f8e\u56fd\u7528\u6237"" refers to individuals from the United States who have provided comprehensive reviews and feedback on GOWEI's electric tricycles, specifically the electric three-wheelers. These individuals have not only evaluated the vehicles but also tested them in various settings, including rural and wilderness areas, where they use the electric tricycles for transportation and carrying items. Their feedback encompasses both the performance and utility of the GOWEI electric tricycles, offering valuable insights into their functionality and suitability for different environments.",12,,"['52b766c1971150e0dafc6f8ae498076b' '778b909250a7f492231efee84460b062'
+ '80407debab8d3468cf6db0ce78296f93' '84b209fa62116d8803fd8181c3ccfa1a'
+ '8be290f02981d162ef05fdf88bbb4462' 'c78953af3e339c6bfcd1dcb0e57042e7'
+ 'f0dc4da2fcced627eb2b6ea00977272e']","[ 0.02685056  0.01176712  0.00627264 ...  0.02891598 -0.01553434
+  0.01079259]"
+c9632a35146940c2a86167c7726d35e9,"""农场""","""GEO""","""\u519c\u573a"" is a geographic location characterized by the presence of houses and fences, where the electric tricycle is commonly utilized. Under clear weather conditions, users can be observed driving the GOWEI electric tricycle, which is surrounded by large cows. Additionally, this location serves as a hub for activities involving the use of electric tricycles for the purpose of carrying and feeding sheep.",13,,"['16a3388485f5dc6c3d6825606baa1666' '52b766c1971150e0dafc6f8ae498076b'
+ '8be290f02981d162ef05fdf88bbb4462']","[ 0.04783746 -0.00734313  0.01579    ...  0.03952693 -0.03012565
+  0.03625466]"
+9646481f66ce4fd2b08c2eddda42fc82,"""外卖电动车""","""GEO""","The 外卖电动车 (wàimài diàndòngchē), or delivery electric bike, is a specialized electric vehicle designed for delivery services, particularly in the context of food delivery within urban areas. These vehicles are commonly used by外卖员 (wàimài yuán), or delivery personnel, to efficiently transport food orders. They are characterized by their design and structural features that cater to the demands of urban delivery, including their presence and application on city sidewalks. This highlights their role in facilitating quick and convenient food deliveries in densely populated urban environments.",14,,"['b5f4b37f2756e2b9625ad36a2cccaf9f' 'cd7551656691a187ec93042ddb968389'
+ 'd5a4c8367eff21093b533db24ae2621f' 'e1a095248bce10bc00cb166c5268d154']","[ 0.0393446  -0.02512647 -0.02960168 ...  0.02006854 -0.03225884
+ -0.00148154]"
+d91a266f766b4737a06b0fda588ba40b,"""外卖员""","""PERSON""","""\u5916\u5356\u5458"" is a professional delivery rider who specializes in delivering goods and food using various types of electric vehicles, including two-wheeled and tricycles, particularly those manufactured by GOWEI. They are often seen in park-like settings and are known for demonstrating the stability and practicality of these vehicles during turns and while carrying items. Typically, ""\u5916\u5356\u5458"" wears a uniform, highlighting their professionalism and focus on their equipment and attire. This role is crucial in the efficiency and reliability of delivery services, as evidenced by their performance in the GOWEI ""\u5916\u5356\u8f66\u6d4b\u8bc4.""",15,,"['1dbf9bf448bc648bf53c1d9b0ffe58c2' '3e05cfc73c24c5a601d66872e8129d34'
+ '4c4b3f6164e6c1c1f35e42882d128003' '512344b077404946e11ccd8ecf0e353d'
+ '80407debab8d3468cf6db0ce78296f93' 'cd7551656691a187ec93042ddb968389'
+ 'f09c52489f639172b19bd1f3b4d5bcfa']","[ 0.03419933 -0.00307457  0.00456623 ... -0.00367825 -0.01649599
+  0.02404904]"
+bc0e3f075a4c4ebbb7c7b152b65a5625,"""湖面和建筑""","""GEO""","""湖面和建筑 refers to a scenic location where the外卖员 is seen sitting on the外卖电动车.""",16,,['cd7551656691a187ec93042ddb968389'],"[-0.01255858 -0.01824388  0.01274041 ... -0.0019744   0.00571258
+ -0.02015919]"
+254770028d7a4fa9877da4ba0ad5ad21,"""公司外景""","""GEO""","""公司外景 refers to the exterior view of a modern industrial building, likely belonging to GOWEI.""",17,,['cd7551656691a187ec93042ddb968389'],"[ 0.02484248 -0.01194469  0.04423868 ... -0.00300629  0.00982807
+  0.0096981 ]"
+4a67211867e5464ba45126315a122a8a,"""电动车烤漆工艺流程""","""EVENT""","""\u7535\u52a8\u8f66\u70e4\u6f06\u5de5\u827a\u6d41\u7a0b"" refers to the comprehensive process involved in the painting and finishing of electric vehicle parts, as demonstrated in a detailed video showcasing the manufacturing techniques of GOWEI's electric vehicles. This process encompasses the preparation, painting, and cooling of parts on specialized racks, ensuring a uniform and high-quality finish. The video also highlights the technical aspects, including the final inspection of the paint job to guarantee aesthetics and durability. Additionally, the process involves meticulous operations by workers to ensure the proper application and uniformity of the paint, particularly on more complex shaped components. Overall, ""\u7535\u52a8\u8f66\u70e4\u6f06\u5de5\u827a\u6d41\u7a0b"" is a critical step in the production of electric vehicles, emphasizing the use of professional equipment and techniques to achieve superior results.",18,,"['049e8787154ca6499c48ddb9a6db8e03' '09ca9a61b002387d49497772aa0f8df4'
+ '0d0caff49769750474f475eba671fe09' '0dae6520bf24f2ffb90d02f43e62349d'
+ '0dc4e862433c2612550642af63394c2e' '27cbb69e62cc8c86ffcfbb9373e820bc'
+ '2e8aae979bfab5f1e482e692c4b6cee6' '316ffd06d84acff557556680d6f7544e'
+ '3c40734ee9f71cf24746d45df2cd50fd' '3c672feda9ecc35630dd32afd4e069f8'
+ '4ec6d7f104ec99a4be14bdc2baf9d37a' '5d010f3d196a8d7fdcdccc932fd51181'
+ '5f0bf110fd9404a59f02137a18953c03' '97f45ec23ce7d8284dc6a6e6ebed1134'
+ 'c294a57dc7d88de4ee1ec83abbe0d5bf' 'd5a4c8367eff21093b533db24ae2621f'
+ 'df0fba68b6162db75d1c3bc777b77c40' 'df20428a20afaaff17ab012a6305bf45'
+ 'f4972594e357d8948f68deac46098a6d']","[ 0.04734074 -0.00907854 -0.0217591  ...  0.04258706 -0.03018829
+  0.01242939]"
+04dbbb2283b845baaeac0eaf0c34c9da,"""休闲电动三轮车测评""","""EVENT""","""休闲电动三轮车测评 is an evaluation event of GOWEI's leisure electric tricycle, highlighting its performance and suitability for rural roads.""",19,,['0dae6520bf24f2ffb90d02f43e62349d'],"[ 0.05136733  0.01347262 -0.01666225 ...  0.05627079  0.00668275
+  0.01659084]"
+1943f245ee4243bdbfbd2fd619ae824a,"""物流或工业区域""","""GEO""","""物流或工业区域 is a flat square area where trucks and containers are parked, typical for cargo and logistics operations.""",20,,['b225bd529f7b57f889ca46915da7d293'],"[-0.01795299  0.00301072  0.01428003 ...  0.00955527 -0.00496128
+  0.03045219]"
+273daeec8cad41e6b3e450447db58ee7,"""装货场景""","""EVENT""","""装货场景 is an event where a red forklift is loading goods into a truck with an open cargo box, including neatly arranged boxes.""",21,,['b225bd529f7b57f889ca46915da7d293'],"[ 0.00049206  0.00306362 -0.03006269 ...  0.01397827 -0.03580444
+  0.00429377]"
+e69dc259edb944ea9ea41264b9fcfe59,"""平坦广场""","""GEO""","""平坦广场 is a location where cargo and logistics operations are taking place, featuring trucks and containers.""",22,,['dff66925833a825bc704f478396370aa'],"[-0.02830526 -0.01712732  0.03196641 ...  0.02007912 -0.02455259
+  0.0160633 ]"
+e2f5735c7d714423a2c4f61ca2644626,"""工人""","""PERSON""",工人在Vespa电动车工厂和GOWEI公司扮演着多样的角色。在Vespa电动车工厂，工人们专注于电动车的组装，他们以高度的集中和精确度进行工作，负责组装电动车的各个部分，包括后轮。同时，他们也可能在生产过程中对涂漆的电动车部件进行标记，或者调整监控设备以确保生产状态的准确性。在GOWEI公司，工人们不仅参与电动车的组装，还负责操作和维护大型机械，以及物流过程中的货物装载，如使用电动叉车将货物装载到卡车上。此外，工人们还参与了ROCKET电动车的生产和展示视频的拍摄，他们在卡车展厅忙碌地进行相关工作。总的来说，工人们在电动车制造的各个环节中发挥着关键作用，无论是组装、标记、监控还是物流操作，都展现了他们对工作细节和流程的专注与负责。,23,,"['09ca9a61b002387d49497772aa0f8df4' '16a3388485f5dc6c3d6825606baa1666'
+ '18bb54b022229af3d84a66a7ce3a97be' '6201ba252ddf9bbbd8354e29d4eef7b7'
+ '84b209fa62116d8803fd8181c3ccfa1a' 'ae24821df740a78537c67a33efc6b7f9'
+ 'd04d405c95addbe0b15bea024f1c8afd' 'df0fba68b6162db75d1c3bc777b77c40'
+ 'dff66925833a825bc704f478396370aa' 'f3c3bf6504c8866031ab0d3fc4713594'
+ 'fbd075850ada0034ac47c27139aaa9aa']","[ 0.0394525   0.0170791  -0.02093353 ...  0.0448354  -0.01837498
+  0.02762339]"
+deece7e64b2a4628850d4bb6e394a9c3,"""装柜""","""EVENT""",装柜（装柜）是指将货物装入集装箱的活动，这是GOWEI物流运营中的关键环节。这一过程特指为了运输目的而将货物装入集装箱，正如GOWEI的运营中所观察到的那样。,24,,['049e8787154ca6499c48ddb9a6db8e03' 'dff66925833a825bc704f478396370aa'],"[ 0.00317378  0.01419875  0.01249104 ...  0.01390876 -0.00316304
+  0.02055704]"
+e657b5121ff8456b9a610cfaead8e0cb,"""男性工人""","""PERSON""","The entity ""\u7537\u6027\u5de5\u4eba"" refers to a worker who is observed engaging in assembly or maintenance tasks on a large blue machine. This worker is often seen standing by the machine, indicating their involvement in the operational processes related to the machine.",25,,['68f3a7fcfb42e437005209782e589fcb' 'f0b7a59a2b8f5308c48db55aecc44c8e'],"[ 0.00638556  0.06683397  0.0050686  ... -0.00429531 -0.02643373
+  0.01930189]"
+bf4e255cdac94ccc83a56435a5e4b075,"""仓库区域""","""GEO""","""仓库区域 is a geographical location where a large number of blue containers are stored, suggesting a logistics or shipping hub.""",26,,['68f3a7fcfb42e437005209782e589fcb'],"[-0.01307603 -0.01487882  0.04808983 ... -0.00207788 -0.0066902
+  0.00956412]"
+3b040bcc19f14e04880ae52881a89c1c,"""GOWEI休闲电动三轮车介绍""","""EVENT""","""GOWEI休闲电动三轮车介绍"" (GOWEI休闲电动三轮车介绍) is an event or presentation that showcases the features and usability of a leisure electric tricycle produced by GOWEI. This event highlights the tricycle's complete front design, brand logo, and modern headlights, providing attendees with a comprehensive view of the vehicle's capabilities and aesthetic appeal.",27,,"['4c4b3f6164e6c1c1f35e42882d128003' '63f5be595bacef23f5c9d4ecafb56f68'
+ '68f3a7fcfb42e437005209782e589fcb' '70d682fe95d80fbfc14cb8c26248e8c0'
+ 'f7fca66d11461f657aeda78f227ddf4e']","[ 0.03560438 -0.01242041 -0.02955744 ...  0.07038638 -0.00324418
+  0.03275023]"
+3d6b216c14354332b1bf1927ba168986,"""车间""","""GEO""","""\u8f66\u95f4"" is a large, well-lit, and ventilated indoor space characterized by a busy yet orderly environment. This location is equipped with various tools and parts, and is serviced by large ceiling fans to maintain air circulation. It serves as a hub for the processing of electric vehicle parts, indicating a significant role in the manufacturing sector. Additionally, ""\u8f66\u95f4"" is involved in the loading of containers with large packages, a process that occurs amidst a setting surrounded by trucks and containers. The area is open to a clear sky, with distant buildings visible, suggesting a strategic location within a larger industrial or logistics complex.",28,,"['4909eecf93a9ecd5a5c7782b9879f57c' '97f45ec23ce7d8284dc6a6e6ebed1134'
+ 'f0b7a59a2b8f5308c48db55aecc44c8e']","[-0.02159862  0.00266128  0.04231626 ... -0.03236122 -0.03001195
+  0.03723596]"
+1c109cfdc370463eb6d537e5b7b382fb,"""GOWEI电动三轮车生产流水线""","""EVENT""","""GOWEI电动三轮车生产流水线 refers to the process or event of manufacturing electric三轮车 by GOWEI.""",29,,['f0b7a59a2b8f5308c48db55aecc44c8e'],"[ 0.03066417  0.00201716  0.01600674 ...  0.03440741 -0.02446169
+  0.03458152]"
+3d0dcbc8971b415ea18065edc4d8c8ef,"""GOWEI3.0-8真空轮胎休闲电动三轮车""","""EVENT""","""GOWEI3.0-8真空轮胎休闲电动三轮车 is a product introduction event showcasing the features and usability of the electric三轮车 designed by GOWEI.""",30,,['52b7d156e0d821aaa4f0df9d2ef01c1b'],"[ 0.04357834 -0.01510187 -0.00759762 ...  0.07319854 -0.00539186
+  0.02112394]"
+68105770b523412388424d984e711917,"""GOWEI60V20AH""","""ORGANIZATION""","""GOWEI60v20ah is an organization that produces a type of lead-acid battery for leisure electric tricycles.""",31,,['8c6420028d52a752844cf0168319df06'],"[ 0.02303281 -0.04695705  0.0341625  ...  0.01447252  0.00727559
+  0.02000459]"
+85c79fd84f5e4f918471c386852204c5,"""展示厅""","""GEO""","""展示厅 is a location where different colored electric tricycles are displayed, indicating a place for showcasing products.""",32,,['8c6420028d52a752844cf0168319df06'],"[-0.01535492 -0.0366372  -0.02897252 ... -0.00138284 -0.01571261
+ -0.00502356]"
+eae4259b19a741ab9f9f6af18c4a0470,"""城市出行""","""EVENT""","""城市出行 refers to the activity of traveling within a city, which these electric tricycles are designed for.""",33,,['8c6420028d52a752844cf0168319df06'],"[ 0.04284688 -0.02260794  0.02902016 ...  0.02074008 -0.01662851
+  0.00670835]"
+3138f39f2bcd43a69e0697cd3b05bc4d,"""休闲出行""","""EVENT""","""休闲出行 refers to leisurely travel, which these electric tricycles are also designed for.""",34,,['8c6420028d52a752844cf0168319df06'],"[ 0.05919496 -0.00466266 -0.01888478 ...  0.04018139 -0.01284353
+  0.01041414]"
+dde131ab575d44dbb55289a6972be18f,"""女主持人""","""PERSON""","The female host, known as 女主持人, introduces and demonstrates electric vehicles with confidence and professionalism. She showcases the operation of both electric cars and electric two-wheeled vehicles, emphasizing their ease of use and convenience.",35,,"['7d9cb75910db9846b75b600ac61841cb' 'd7e9ddde7141280d221bdfc69a641d9b'
+ 'e047514a79b698fa1907d610299b11db']","[ 0.04573826 -0.05455644 -0.04287962 ... -0.00681956 -0.04428471
+  0.02084628]"
+de9e343f2e334d88a8ac7f8813a915e5,"""ROCKET电动车""","""ORGANIZATION""",ROCKET电动车是一家生产电动车的公司，其产品设计现代，结合了实用性和时尚美观。ROCKET电动车的特点包括白色车身和棕色座椅，前轮配有碟刹，以及无内胎轮胎等先进组件。此外，ROCKET电动车还具备防抱死制动系统，设计简洁，功能区分明确，包括转向灯开关、远近光灯切换、行车模式、喇叭和电源控制等功能。ROCKET电动车的设计流畅，车头部分设有较大的储物箱和方便的手把，前部带有照明灯和信号灯，提供了良好的照明和指示标识。车辆颜色为白色和棕色，保持了风格统一。,36,,"['0c5f6b5a79353e1aee8f1ffba4a51c93' '49c50de81462017170c1274c30617fed'
+ '6776d265d86bf60aea924de7e059fae6' '69dbe287de73c3894473272c58ec5bc1'
+ '7d9cb75910db9846b75b600ac61841cb' 'daca8dcf96c3c103d1cc754741efa097'
+ 'f4aaeb0c7cc80f35034f158f11864136' 'fbd075850ada0034ac47c27139aaa9aa']","[ 0.04855772 -0.04259449 -0.0386545  ...  0.04489459 -0.00297363
+  0.00457625]"
+e2bf260115514fb3b252fd879fb3e7be,"""GOWEI 60V20AH铅酸电池休闲电动三轮车""",,,37,,['7d9cb75910db9846b75b600ac61841cb'],"[ 5.25661819e-02 -3.24993245e-02 -1.55405868e-02 ...  4.81935441e-02
+ -1.90268774e-02  4.57714232e-05]"
+b462b94ce47a4b8c8fffa33f7242acec,"""GOWEI CP900电动两轮车""",,"GOWEI CP900电动两轮车 is a brand and model of electric two-wheel vehicles produced by GOWEI. These vehicles are known for their convenience, ease of use, and stylish appearance. They feature a storage compartment with an internal power button and USB charging ports, and are designed with modern aesthetics and safety features. The CP900 model is highlighted for its advanced features such as 220mm disc brakes, dynamic feel, and portability. It is showcased in various settings, including urban environments and natural park scenes, demonstrating its versatility and practicality. The brand emphasizes not only the performance and safety of its vehicles but also the comfort design and material quality. GOWEI CP900电动两轮车 is also recognized for its high-quality equipment and fine craftsmanship, featuring CNC-machined brake and clutch levers, and a streamlined design with a CNC-branded front handle and display panel. Overall, GOWEI CP900电动两轮车 is a high-performance electric two-wheel vehicle designed for urban environments, showcasing modern design, functionality, and safety features.",38,,"['01e6b8d7b1f4b041d5887838550f984e' '049830e8de6e5250d1561dd447fea882'
+ '0967c868d34be08b096d247d2fa2962d' '0dc4e862433c2612550642af63394c2e'
+ '1396b770a3001803a17c59f30167048a' '14e5f055707dde603b4258f17471e849'
+ '16b542f87182585fd522d0db1c69920d' '18bb54b022229af3d84a66a7ce3a97be'
+ '19b40ba594419544163298cacfc2c257' '2488e9ef9aa777480edf2f25c8c177d4'
+ '26a1b0a67e27fa142dffd9c49a560d08' '27cbb69e62cc8c86ffcfbb9373e820bc'
+ '3c40734ee9f71cf24746d45df2cd50fd' '4858949de0d193b1373fbfdb50d13c71'
+ '4ec6d7f104ec99a4be14bdc2baf9d37a' '512344b077404946e11ccd8ecf0e353d'
+ '5d5e26d75f7211cf1e99088c52f84ae2' '60049903e5bf69c0fddafcb54640f847'
+ '66a124519c585725bdead925f29dd527' '6ae1c7204147c3fdf2978d85805cddbb'
+ '6e3a4a646b51e3e35c8ccd80ed7da57c' '7bdb82571e88fd1ba3bc6f986260676f'
+ '7d4b8691bbdc841864d8c2461f666881' '7d9cb75910db9846b75b600ac61841cb'
+ '807bf879b6d4d9fd4290e8a27551104c' '94b80c3f5ff26a922ff90082a09fc4a7'
+ '99303a7e746e26805c54947cd3d1645c' 'ae24821df740a78537c67a33efc6b7f9'
+ 'b89d8cde3dfc3ad418c9bdbc92efb6c2' 'bb7378c122ff66bb89e11f27e668bf39'
+ 'd4da6ab24f78822888acd815c93637b3' 'd7e9ddde7141280d221bdfc69a641d9b'
+ 'dff4e86c6cdf187dc3937ef4cc9dccb8' 'e047514a79b698fa1907d610299b11db'
+ 'e96254072a3fbfbdf47fdd8de2b2ccd5' 'f4972594e357d8948f68deac46098a6d'
+ 'f9624fb070dbb7b8e5bc20a836558f2d' 'f989d285ca4b573e3da1a84f0d2e8d98']","[ 0.0509243  -0.02401624 -0.00277868 ...  0.02414555  0.00420843
+  0.01792695]"
+17ed1d92075643579a712cc6c29e8ddb,"""图中展示的ROCKET电动车""",,,39,,['7d9cb75910db9846b75b600ac61841cb'],"[ 0.02423509 -0.02082846 -0.06342278 ...  0.02576693 -0.0038639
+ -0.01711318]"
+3ce7c210a21b4deebad7cc9308148d86,"""OWEI CP900""","""ORGANIZATION""","""OWEI CP900 is an organization related to electric two-wheel vehicles.""",40,,['69dbe287de73c3894473272c58ec5bc1'],"[ 0.03297644 -0.05227355 -0.00766126 ...  0.01115834 -0.00981007
+  0.01453604]"
+d64ed762ea924caa95c8d06f072a9a96,"""VESPA电动车""","""ORGANIZATION""","Vespa电动車 is a brand and organization renowned for producing high-quality electric scooters. Known for their stylish and well-designed vehicles, Vespa电动車 targets a youthful market with their vibrant colors and simple designs. These scooters are not only used in park environments but are also showcased for their meticulous design and craftsmanship. Vespa电动車 is highlighted in various descriptions for its product's design and features, including a specific model with a front windshield and a rear luggage compartment. Additionally, the brand is featured in events like Vespa电动車展示, where the modern design and functional features of their electric motorcycles are displayed.",41,,"['0967c868d34be08b096d247d2fa2962d' '0d62a46042580f35466180ecb078523a'
+ '19cb0be271287884975bf4cd5e175330' '69dbe287de73c3894473272c58ec5bc1'
+ '9d4ff86767a6afa86a1d9b27e2a937c1' '9fa7ce8bbc4066276658927034f6ec8f'
+ 'd1beb9b5f2429e854716d86b45f36291' 'f09c52489f639172b19bd1f3b4d5bcfa'
+ 'f4aaeb0c7cc80f35034f158f11864136' 'f53c68a4cb2b09b7fb9a70e204aa3189']","[ 0.03843579 -0.05494809 -0.06247267 ...  0.02937841 -0.01061919
+  0.02310792]"
+adf4ee3fbe9b4d0381044838c4f889c8,"""宽阔的道路旁""","""GEO""","""宽阔的道路旁 is a geographic location where the ROCKET电动车 is parked, featuring a broad road with multiple vehicles and green vegetation.""",42,,['69dbe287de73c3894473272c58ec5bc1'],"[ 0.04253079 -0.05385909 -0.01414795 ...  0.00739693 -0.02468128
+  0.00653985]"
+32ee140946e5461f9275db664dc541a5,"""电动车展示视频""","""EVENT""","""电动车展示视频 is an event where the ROCKET电动车 is displayed, highlighting its features and design in a video.""",43,,['69dbe287de73c3894473272c58ec5bc1'],"[ 0.00518052 -0.04424506 -0.06992809 ...  0.04220371 -0.02606281
+ -0.01311448]"
+c160b9cb27d6408ba6ab20214a2f3f81,"""合金轮毂设计""","""EVENT""","""合金轮毂设计 is an event or feature of the ROCKET电动车, showcasing modern and advanced design elements.""",44,,['f4aaeb0c7cc80f35034f158f11864136'],"[ 0.05366794 -0.00341073 -0.01706932 ...  0.02220266 -0.01388137
+  0.00134295]"
+23527cd679ff4d5a988d52e7cd056078,"""淡雅的蓝色调""","""EVENT""","""淡雅的蓝色调 is an event or feature of the Vespa电动车, describing the aesthetic design of the vehicle.""",45,,['f4aaeb0c7cc80f35034f158f11864136'],"[ 0.03779771 -0.02851445 -0.09181343 ...  0.01744765 -0.01468926
+  0.00978176]"
+f1c6eed066f24cbdb376b910fce29ed4,"""VESPA电动车工厂""","""GEO""",Vespa电动车工厂是一家专注于生产高性能摩托车和电动车的公司，以其先进的制造技术和创新设计而闻名。该工厂不仅生产各种型号的电动摩托车，还展示了电动三轮车等多种类型的电动车，强调其维护和实用性。此外，Vespa电动车工厂还以其高效的存储和管理系统、宽敞且有序的内部环境以及高生产能力和多样化的产品线而著称。工厂内部采用现代化的装配线，多名员工协同工作，确保每一辆电动车的组装都细致入微。Vespa电动车工厂还注重产品质量控制和细节处理，其产品展示环境干净明亮，强调设计和现代感。此外，工厂还展示了各种颜色和风格的电动车，以及配备电子显示器的车型，提供产品信息或导航辅助。Vespa电动车工厂不仅是一个大规模的现代化设施，还是一个展示电动车多样性和实用性的组织，其产品广泛应用于城市环境，并以其动态性能和便利性受到认可。,46,,"['04f3287fa93d1ec89dfa19aa4a14cf49' '0d43999f2280112b04122b52a07355c6'
+ '16b542f87182585fd522d0db1c69920d' '18bb54b022229af3d84a66a7ce3a97be'
+ '1997c6706418bac7ba9ffb15528654ea' '19b40ba594419544163298cacfc2c257'
+ '19cb0be271287884975bf4cd5e175330' '1dbf9bf448bc648bf53c1d9b0ffe58c2'
+ '2488e9ef9aa777480edf2f25c8c177d4' '258e0c2b285c0e9d4863253404eb139a'
+ '26a1b0a67e27fa142dffd9c49a560d08' '4753682c04b68fe0547c8d431c70c20e'
+ '518d8d4573c1cbb63e8041e02c4c1451' '5cef0a729380c841ae52c432e66e6f70'
+ '5d5e26d75f7211cf1e99088c52f84ae2' '5e086d7e96373277416bc604c8b6edd8'
+ '6ae1c7204147c3fdf2978d85805cddbb' '6d087ea57ab16ea87d0079654ee55833'
+ '94b80c3f5ff26a922ff90082a09fc4a7' '98ddfa2535db30d98bd9074508b8ba47'
+ '9d4ff86767a6afa86a1d9b27e2a937c1' 'ae24821df740a78537c67a33efc6b7f9'
+ 'bb7378c122ff66bb89e11f27e668bf39' 'd4da6ab24f78822888acd815c93637b3'
+ 'e7e464692968bb33b1aed8b722751300' 'e96254072a3fbfbdf47fdd8de2b2ccd5'
+ 'ed2d4df985b5657aa1082cef15dd4c7e' 'f0dc4da2fcced627eb2b6ea00977272e'
+ 'f3c3bf6504c8866031ab0d3fc4713594' 'f9624fb070dbb7b8e5bc20a836558f2d']","[ 0.03255943 -0.02333461 -0.03559943 ...  0.03700411 -0.00585986
+  0.02930977]"
+83a6cb03df6b41d8ad6ee5f6fef5f024,"""外部厂区""","""GEO""","""外部厂区 is the location of the Vespa电动车工厂, featuring spacious roads and orderly building layouts.""",47,,['518d8d4573c1cbb63e8041e02c4c1451'],"[-0.00431914 -0.03417488  0.01218147 ...  0.00039249 -0.00491431
+  0.01423953]"
+147c038aef3e4422acbbc5f7938c4ab8,"""装货地点""","""GEO""","""装货地点 is where large trucks are loaded or unloaded, with trees and buildings in the background.""",48,,['518d8d4573c1cbb63e8041e02c4c1451'],"[ 0.00189986 -0.01400141  0.01268878 ...  0.01485347 -0.01063923
+  0.02156632]"
+b7702b90c7f24190b864e8c6e64612a5,"""VESPA""","""ORGANIZATION""","Vespa is an organization renowned for its production and manufacturing of electric scooters and vehicles, including both scooters and motorcycles. The company is highlighted for its innovative electric scooter applications, which showcase not only the usability and information display in their products but also the detailed design and side lines of their vehicles. Vespa's commitment to efficiency is evident in the introduction of their factory and assembly line operations. The organization's products are often featured in various settings, such as urban environments and parks, demonstrating their practicality and style. Additionally, Vespa is known for producing stylish and classic electric scooters as well as functional electric motorcycles, emphasizing their versatility and commitment to both style and functionality in the electric vehicle market.",49,,"['09ca9a61b002387d49497772aa0f8df4' '0d62a46042580f35466180ecb078523a'
+ '16a3388485f5dc6c3d6825606baa1666' '38046dfd3e0af10881886c3255cf00f0'
+ '63f5be595bacef23f5c9d4ecafb56f68' '6efa0a0c6401f79fbec633fcc5c5a9b8'
+ '70d682fe95d80fbfc14cb8c26248e8c0' '7bdb82571e88fd1ba3bc6f986260676f'
+ '980ce3a3a9770f5dbcb3239836f59b12' '9a9d9faac55c7f6a08d3e57847bdcb92'
+ 'b4a8f27dcc185d90a8ab25dd04823c42' 'd1beb9b5f2429e854716d86b45f36291'
+ 'e047514a79b698fa1907d610299b11db' 'f53c68a4cb2b09b7fb9a70e204aa3189']","[ 0.02637342 -0.04461855 -0.02065628 ...  0.01684071  0.00260378
+  0.03291084]"
+de6fa24480894518ab3cbcb66f739266,"""ROCKET""","""ORGANIZATION""","ROCKET is an organization renowned for producing electric vehicles, including electric bikes and motorcycles, which are characterized by their stylish, modern, and futuristic designs. The brand is particularly noted for its distinctive features and components, as evidenced by the presence of ROCKET-branded electric bikes and a large factory building. The vehicles produced by ROCKET are highlighted for their sleek design lines, both from the side and front perspectives, underscoring the brand's commitment to innovation and aesthetic appeal in the electric vehicle market.",50,,"['40b33db8ac814f368e0bacd7a1713615' '49c50de81462017170c1274c30617fed'
+ '6776d265d86bf60aea924de7e059fae6' '70bd2d769eecd861a3b7ef394e62a4e6'
+ '70d682fe95d80fbfc14cb8c26248e8c0' '852953adfab1607897fb6d4606864e74'
+ 'c1e866a6e1fa1a08eb2118f983458f1d']","[ 0.04494048 -0.02662473 -0.04293398 ...  0.01548607  0.00143253
+  0.00460788]"
+6fae5ee1a831468aa585a1ea09095998,"""VESPA电动车应用""",,"""Vespa电动車應用""是一个专注于展示Vespa电动车辆细节的项目或组织。它不仅关注电动车辆的控制部件，如镜子和把手，还强调其实际应用，包括展示存储空间和安全设备。此外，""Vespa电动車應用""还涉及Vespa电动车辆的展示和应用，特别突出其存储能力，并且还包括了Vespa电动车辆的数字仪表盘，展示了现代技术集成。总的来说，""Vespa电动車應用""是一个全面展示Vespa电动车辆功能和技术的平台。",51,,"['19245d5aad7e86ddbc033b15a375066e' '2dd0d8ce00cac3010d8d6f18bb556def'
+ '70d682fe95d80fbfc14cb8c26248e8c0' '7bdb82571e88fd1ba3bc6f986260676f'
+ 'bf8e53e1a74a592c4e623c80d0f8c409' 'd92b0ef7d72dc378fea39d921cf09ec6']","[ 0.0047756  -0.02881774 -0.02367562 ...  0.04148703 -0.00144964
+  0.03676067]"
+ef32c4b208d041cc856f6837915dc1b0,"""ROCKET电动车的另一个角度视图""",,,52,,['70d682fe95d80fbfc14cb8c26248e8c0'],"[ 0.02740234 -0.01639329 -0.04843524 ...  0.04050781 -0.01743577
+ -0.01568303]"
+07b2425216bd4f0aa4e079827cb48ef5,"""展示视频""","""EVENT""","""展示视频是一个记录ROCKET电动车设计和功能的视频，展示了车辆的多个角度和特点，包括设计线条、储物箱、手把、灯具和信号灯等。""",53,,['fbd075850ada0034ac47c27139aaa9aa'],"[ 0.0146006  -0.02082135 -0.05609367 ...  0.05476828 -0.03894918
+ -0.01615044]"
+2670deebfa3f4d69bb82c28ab250a209,"""两位工人""","""PERSON""","""Two workers are depicted in the video, one outside and one inside a truck, busy with cargo handling.""",54,,['b4a8f27dcc185d90a8ab25dd04823c42'],"[ 0.00917943  0.00303453 -0.03275625 ... -0.00529844 -0.03015655
+  0.01648954]"
+404309e89a5241d6bff42c05a45df206,"""流水线""","""EVENT""","""流水线 refers to the assembly line process, which is briefly mentioned in the text, indicating a production or manufacturing activity.""",55,,['b4a8f27dcc185d90a8ab25dd04823c42'],"[-0.02253623  0.02935913 -0.00259735 ...  0.00650702 -0.0077418
+  0.03337935]"
+b785a9025069417f94950ad231bb1441,"""展示车辆的另一侧视角""",,,56,,['b4a8f27dcc185d90a8ab25dd04823c42'],"[ 0.02875313 -0.02168289 -0.03178501 ...  0.03916589 -0.02022908
+ -0.02500056]"
+3b6cd96a27304614850709aba1c9598b,"""工厂""","""GEO""","""工厂 is a geographical location where industrial activities such as manufacturing and logistics take place, as evidenced by the presence of assembly lines and cargo handling.""",57,,['09ca9a61b002387d49497772aa0f8df4'],"[-0.02482212  0.04432202  0.03047977 ... -0.00271282 -0.00622789
+  0.03902216]"
+d54956b79dd147f894b67a8b97dcbef0,"""WORKER IN BLUE OVERALLS""","""PERSON""","""A worker wearing blue overalls is seen operating an electric forklift to lift goods, indicating their role in logistics operations.""",58,,['9a9d9faac55c7f6a08d3e57847bdcb92'],"[ 0.00287077  0.01313064 -0.05242271 ...  0.02668566  0.01073417
+  0.00174274]"
+958beecdb5bb4060948415ffd75d2b03,"""VESPA ELECTRIC SCOOTERS""","""EVENT""","""The event showcases a display of Vespa electric scooters in various colors, emphasizing the diversity of color options and designs.""",59,,['9a9d9faac55c7f6a08d3e57847bdcb92'],"[ 0.01911369 -0.02552472 -0.03154177 ...  0.02227742 -0.01758555
+  0.00289063]"
+b999ed77e19e4f85b7f1ae79af5c002a,"""EEC状态电动三轮车""","""EVENT""","""EEC状态电动三轮车""是由GOWEI生产的一款特定型号的电动三轮车，以其宽敞的货物区域和现代技术为特点。该车型在视频中被展示，详细介绍了其设计和功能，并且在车辆内饰的背景下被提及，表明它是一个与电动汽车相关的产品线或组织。",60,,"['2235b0112d327b6f61bedb5f63513d93' '3f4a5d06c454ed39f51a8bc3cd93be00'
+ '5f0bf110fd9404a59f02137a18953c03']","[ 0.05002509 -0.04721369 -0.01139622 ...  0.06002119 -0.03500864
+  0.03061304]"
+48c0c4d72da74ff5bb926fa0c856d1a7,"""休闲电动三轮车介绍""","""EVENT""","""休闲电动三轮车介绍 refers to the presentation of a modern and tech-savvy electric三轮车 model by GOWEI, highlighting its features like speed and battery status.""",61,,['3f4a5d06c454ed39f51a8bc3cd93be00'],"[ 0.01988516 -0.03733883 -0.04614993 ...  0.06808138 -0.00557615
+  0.04424808]"
+4f3c97517f794ebfb49c4c6315f9cf23,"""GOWEI CP900""","""PERSON""","The GOWEI CP900 is a specific model of electric two-wheeled vehicle produced by GOWEI, a renowned manufacturer known for its high-speed performance, sleek design, and sporty style. This model is highlighted for its dynamic design, comfort, and detailed design features, which are showcased in various operational settings and scenarios, demonstrating its usability in both leisure and commuting environments. The GOWEI CP900 is also noted for its stylish color schemes and advanced CNC braking systems, making it a versatile and reliable choice for electric bicycle enthusiasts. Additionally, the model includes specific design details such as a designed kickstand, enhancing its practicality and appeal. Overall, the GOWEI CP900 stands out as a premium electric two-wheel vehicle, embodying both functionality and aesthetic appeal.",62,,"['0d0caff49769750474f475eba671fe09' '19245d5aad7e86ddbc033b15a375066e'
+ '2bfce37c170b07dc1f0455c1c113aa33' '4753682c04b68fe0547c8d431c70c20e'
+ '6e94bed8124db618e21062b69af6dab6' '98ddfa2535db30d98bd9074508b8ba47'
+ 'bb7378c122ff66bb89e11f27e668bf39' 'c294a57dc7d88de4ee1ec83abbe0d5bf'
+ 'cc8cfdeade906fe8fbf1578ff98dd507' 'df20428a20afaaff17ab012a6305bf45'
+ 'f7fca66d11461f657aeda78f227ddf4e']","[ 0.05929901 -0.02357565 -0.0078354  ...  0.01503942  0.00693253
+  0.01587284]"
+1745a2485a9443bab76587ad650e9be0,"""GOWEI 休闲电动三轮车测评""","""EVENT""","""GOWEI 休闲电动三轮车测评 is an event where the performance and features of GOWEI's leisure electric tricycles are evaluated and showcased.""",63,,['2bfce37c170b07dc1f0455c1c113aa33'],"[ 0.043521    0.00761909 -0.02720937 ...  0.05203851  0.01558822
+  0.02538919]"
+32e6ccab20d94029811127dbbe424c64,"""红衣工人""","""PERSON""","""\u7ea2\u8863\u5de5\u4eba is a worker at GOWEI who is actively involved in the logistics and distribution process. Their primary responsibilities include moving and loading large cardboard boxes into a truck, which is a crucial part of the company's logistics operations.""",64,,['19245d5aad7e86ddbc033b15a375066e' '6e94bed8124db618e21062b69af6dab6'],"[ 0.00666758  0.01971122  0.02308532 ...  0.02890317 -0.01140621
+  0.00235071]"
+94a964c6992945ebb3833dfdfdc8d655,"""GOWEI 装柜""","""EVENT""","""GOWEI 装柜"" refers to a series of events and processes at GOWEI where the organization handles the loading of its vehicles, products, and cargo into containers and trucks. These activities are a key operational aspect of GOWEI, involving the use of equipment such as forklifts and the participation of workers who load containers onto trucks. The events often include the handling of large boxes and labeled cargo, indicating a significant part of the distribution and shipping process for GOWEI products. Additionally, these activities may involve setting up or maintaining technical equipment or machinery, and have been specifically noted to feature a MAERSK container in one instance. Overall, ""GOWEI 装柜"" highlights the logistics and operational efficiency required in the transportation and storage of GOWEI's goods.",65,,"['19245d5aad7e86ddbc033b15a375066e' '2a246ce9def5a1b31fe2a4dd387ec582'
+ '3e05cfc73c24c5a601d66872e8129d34' '4858949de0d193b1373fbfdb50d13c71'
+ '60049903e5bf69c0fddafcb54640f847' '6e94bed8124db618e21062b69af6dab6'
+ 'd04d405c95addbe0b15bea024f1c8afd' 'd7e9ddde7141280d221bdfc69a641d9b'
+ 'e7e464692968bb33b1aed8b722751300']","[ 0.01533931  0.0119333   0.04427818 ...  0.01467771 -0.01012003
+  0.03261442]"
+1eb829d0ace042089f0746f78729696c,"""另一位工人""","""PERSON""","""另一位工人 is another worker at GOWEI who assists from outside the truck, showing teamwork in the logistics operations.""",66,,['6e94bed8124db618e21062b69af6dab6'],"[-0.00691523 -0.00273052  0.00248243 ...  0.01571529  0.01098448
+  0.02107023]"
+015e7b58d1a14b44beab3bbc9f912c18,"""仓库""","""GEO""","""\u4ed3\u5e93"" refers to a geographical location where GOWEI's operations, such as loading, inspection of vehicles, and storage of goods, take place. This location features rows of electric vehicles displayed within a warehouse setting, where the light coming from the end of the warehouse creates a visual depth. Additionally, the video footage shows a worker adjusting a monitor, indicating the presence of management activities within the facility.",67,,"['4858949de0d193b1373fbfdb50d13c71' '98ddfa2535db30d98bd9074508b8ba47'
+ 'd04d405c95addbe0b15bea024f1c8afd']","[ 0.00053709 -0.00055862  0.0253209  ...  0.01476827 -0.02265909
+  0.02821239]"
+26f88ab3e2e04c33a459ad6270ade565,"""两名工人""","""PERSON""","The two workers are individuals who are actively engaged in operating or maintaining various types of machinery at GOWEI. Their responsibilities include the maintenance or operation of a printing machine, large mechanical devices, and delivery vehicles. Additionally, they work with technical equipment, potentially in maintenance or setup roles.",68,,"['1e905d9adf719f55f747f9d6f27fe498' '2dd0d8ce00cac3010d8d6f18bb556def'
+ '60049903e5bf69c0fddafcb54640f847' 'd92b0ef7d72dc378fea39d921cf09ec6']","[ 0.00228521  0.03893689  0.03949694 ... -0.00595388 -0.0168282
+  0.02896265]"
+babe97e1d9784cffa1c85abc1e588126,"""GOWEI EEC状态电动三轮车""","""ORGANIZATION""",GOWEI EEC状态电动三轮车是一个组织，专注于生产和展示其专为食品配送设计的电动三轮车。该组织不仅强调其电动三轮车的设计美观和实用功能，还注重其功能性、操作便利性、货物容量以及坚固的车身结构。通过这些特点，GOWEI EEC状态电动三轮车旨在为食品配送行业提供高效、可靠的运输解决方案。,69,,"['316ffd06d84acff557556680d6f7544e' 'b5f4b37f2756e2b9625ad36a2cccaf9f'
+ 'bf8e53e1a74a592c4e623c80d0f8c409']","[ 0.03878669 -0.04935264  0.02537174 ...  0.06828611 -0.03712665
+  0.02380143]"
+1033a18c45aa4584b2aef6ab96890351,"""电动车储物空间展示""","""EVENT""","""电动车储物空间展示 is an event where the storage space of an electric vehicle is highlighted, including the display of safety helmets.""",70,,['bf8e53e1a74a592c4e623c80d0f8c409'],"[-0.00265396 -0.02379938 -0.02362981 ...  0.03902371 -0.01402528
+ -0.00687336]"
+c9b8ce91fc2945b4907fe35519339cac,"""十字路口""","""GEO""","""十字路口 is a geographic location where an electric三轮车 is tested in a complex traffic environment.""",71,,['e047514a79b698fa1907d610299b11db'],"[-0.02201877 -0.03325076  0.01303827 ...  0.00083477 -0.0312664
+  0.01895319]"
+fa3c4204421c48609e52c8de2da4c654,"""电动三轮车测试""","""EVENT""","""电动三轮车测试 is an event where the performance of an electric三轮车 is evaluated in a complex traffic environment.""",72,,['e047514a79b698fa1907d610299b11db'],"[ 0.01813332 -0.04213364 -0.02770269 ...  0.04040666 -0.02564451
+  0.03427942]"
+53af055f068244d0ac861b2e89376495,"""MAERSK""","""ORGANIZATION""","MAERSK is a well-known organization involved in shipping and logistics services, as evidenced by the consistent presence of its logo on large containers, indicating the transport of maritime cargo. This is further supported by the textual and visual references to containers featuring the MAERSK logo, which highlight its role in the maritime industry.",73,,"['0f09df3d97e7d6ca0ffa3bc9a2211361' '2a246ce9def5a1b31fe2a4dd387ec582'
+ '305a7e063d6a693cc1391bdaa7f3b68e' 'd7e9ddde7141280d221bdfc69a641d9b']","[ 0.02680128  0.042208    0.04188702 ... -0.00137345 -0.03131783
+ -0.01219699]"
+c03ab3ce8cb74ad2a03b94723bfab3c7,"""GOWEI 外卖车测评""","""ORGANIZATION""",GOWEI 外货车测评是一个由GOWEI组织的事件，旨在全面评估其电动送货车的性能和实用性。这一事件涵盖了多个方面，包括电动三轮车的操作性能、车辆细节、前轮和刹车系统的质量与设计、电动两轮车的稳定性测试、以及电动车的电机、车架和整体设计的评估。此外，GOWEI 外货车测评还特别关注这些电动车在送货服务中的功能性和特点，以及它们在城市交通和传统建筑环境中的实际应用。该事件还涉及对电动车安全特性的评估，以及通过移动电话接收和处理送货订单的便利性的推广。总体而言，GOWEI 外货车测评是一个综合性的评估活动，旨在展示和提升GOWEI电动车在送货服务中的效率和适应性。,74,,"['0967c868d34be08b096d247d2fa2962d' '2a246ce9def5a1b31fe2a4dd387ec582'
+ '3e05cfc73c24c5a601d66872e8129d34' '4c4b3f6164e6c1c1f35e42882d128003'
+ '52b766c1971150e0dafc6f8ae498076b' '566c4f22aea62262ad0fbead55ffc04c'
+ '80407debab8d3468cf6db0ce78296f93' 'ae24821df740a78537c67a33efc6b7f9'
+ 'd7e9ddde7141280d221bdfc69a641d9b' 'e7e464692968bb33b1aed8b722751300'
+ 'f4972594e357d8948f68deac46098a6d' 'f85d550625f76babc79546ed9e2f88a4']","[ 0.02165364 -0.00727245  0.00138108 ...  0.0296602  -0.01850594
+  0.01554837]"
+ed6d2eee9d7b4f5db466b1f6404d31cc,"""风景优美的桥和传统建筑""","""GEO""","""\u98ce\u666f\u4f18\u7f8e\u7684\u6865\u548c\u4f20\u7edf\u5efa\u7b51"" is a geographical location renowned for its scenic bridges and traditional architecture. This area is characterized by the use of delivery services, specifically involving the use of ""外卖车"" (delivery vehicles), which operate within a traditional environment, thereby maintaining the cultural and historical ambiance of the region while facilitating modern commerce.",75,,['1e905d9adf719f55f747f9d6f27fe498' 'd7e9ddde7141280d221bdfc69a641d9b'],"[ 0.01749368 -0.01066147  0.05557131 ... -0.02096017  0.00569687
+  0.00274262]"
+fc01e9baa80e417c9206f941bb279407,"""外卖车""","""ORGANIZATION""","""\u5916\u5356\u8f66"" refers to a specialized type of delivery vehicle utilized by GOWEI, primarily designed for food delivery services in urban areas. These vehicles are characterized by their efficient design and advanced storage capabilities, which are essential for maintaining the quality and freshness of the food during transportation. The term ""\u5916\u5356\u8f66"" is specifically associated with GOWEI's product line, highlighting their role in facilitating the delivery of food items with precision and reliability.",76,,"['1e905d9adf719f55f747f9d6f27fe498' '566c4f22aea62262ad0fbead55ffc04c'
+ '6201ba252ddf9bbbd8354e29d4eef7b7' '743aa886d9a651b82ace66e5e6fbdf70']","[ 0.0144208  -0.01255833  0.04560377 ...  0.03027835 -0.01464695
+  0.01231222]"
+56d0e5ebe79e4814bd1463cf6ca21394,"""休闲电动三轮车""","""ORGANIZATION""","""休闲电动三轮车 is a leisure vehicle introduced by GOWEI, featuring a distinctive red color.""",77,,['1e905d9adf719f55f747f9d6f27fe498'],"[ 0.04349557 -0.02541044 -0.0201146  ...  0.06739292 -0.02088316
+  0.01803709]"
+7c49f2710e8b4d3b8dc9310834406ea5,"""羊群""","""EVENT""","""羊群 refers to a group of sheep that are being tended to using an electric tricycle at a farm.""",78,,['16a3388485f5dc6c3d6825606baa1666'],"[ 0.03057055 -0.0354686  -0.00367052 ...  0.04970429 -0.0285679
+ -0.01543005]"
+c6d1e4f56c2843e89cf0b91c10bb6de2,"""电动车应用""",,,79,,['16a3388485f5dc6c3d6825606baa1666'],"[ 0.01857707 -0.02707927 -0.02975771 ...  0.01500172 -0.03268188
+  0.01572662]"
+0adb2d9941f34ef7b2f7743cc6225844,"""三轮车""",,,80,,['16a3388485f5dc6c3d6825606baa1666'],"[-0.01266098 -0.01280441  0.01343029 ...  0.03624874 -0.02965095
+ -0.00210582]"
+6b02373137fd438ba96af28f735cdbdb,"""三轮车座椅部分""","""GEO""","""三轮车座椅部分 refers to the specific area of a three-wheeled vehicle where the seats are located, highlighting the design and safety features.""",81,,['d92b0ef7d72dc378fea39d921cf09ec6'],"[-0.03059125 -0.02195036  0.01945056 ...  0.03876414  0.00173075
+  0.02234988]"
+36a4fcd8efc144e6b8af9a1c7ab8b2ce,"""PARK""","""GEO""","""The park is a geographic location with green grass and roadside trees, where a Vespa electric scooter is being used.""",82,,['63f5be595bacef23f5c9d4ecafb56f68'],"[ 0.01165433 -0.01897398 -0.03571573 ... -0.00089224  0.00637874
+ -0.00127023]"
+fbeef791d19b413a9c93c6608286ab63,"""PERSON IN BROWN JACKET""","""PERSON""","""The person in a brown jacket and white motorcycle helmet is operating a Vespa electric scooter in a park, illustrating the practical use of the scooter in an urban setting.""",83,,['63f5be595bacef23f5c9d4ecafb56f68'],"[-0.0123733  -0.01802547 -0.04895872 ... -0.03041213  0.00712868
+  0.006504  ]"
+d2b629c0396f4180a03e16ddf3818589,"""白色摩托车头盔的人""","""PERSON""","""白色摩托车头盔的人 is a person driving a Vespa电动车 in a park.""",84,,['f09c52489f639172b19bd1f3b4d5bcfa'],"[ 0.04457461 -0.03497104 -0.05827726 ...  0.02375126 -0.00710313
+  0.00805763]"
+6102fc6619ed422ebc42588bfa97355d,"""公园""","""GEO""","公園（""\u516c\u56ed""）是一个地理环境，以其阳光明媚、绿草如茵和街道树木为特点，适合休闲活动。在这个环境中，GOWEI CP900电动两轮车和Vespa电动车都被展示为适合在此类休闲环境中使用的交通工具。这两款车型都强调了它们在公園这样的环境中操作的适宜性。",85,,['2488e9ef9aa777480edf2f25c8c177d4' 'f09c52489f639172b19bd1f3b4d5bcfa'],"[ 0.03550907 -0.04018072 -0.02133689 ...  0.01686737  0.01073582
+  0.01264491]"
+8d141c0b80f74b79a05eed7fe161fe49,"""公路""","""GEO""","""公路 is a location where a heavily loaded truck is traveling.""",86,,['f09c52489f639172b19bd1f3b4d5bcfa'],"[ 0.05374319 -0.0198153  -0.02571853 ...  0.01104819 -0.02175797
+  0.01984036]"
+e22d1d1cd8d14f12b81828d940f40d70,"""OWEI""","""ORGANIZATION""","""OWEI is mentioned in the context of a delivery vehicle evaluation, suggesting it is an organization related to logistics or transportation.""",87,,['2235b0112d327b6f61bedb5f63513d93'],"[ 0.01235117 -0.02709154  0.00201894 ...  0.00739813 -0.00416014
+  0.02147483]"
+9ab48505fb1b487babd0d1f6d3a3f980,"""重载的卡车""","""GEO""","""重载的卡车 is described as traveling on a highway, indicating a geographical location where the transportation activity is taking place.""",88,,['2235b0112d327b6f61bedb5f63513d93'],"[ 0.02547447 -0.03682284  0.01255918 ... -0.02108232 -0.01273724
+  0.01193597]"
+148fffeb994541b2b4b6dcefda7001a8,"""电动车""","""GEO""",电动車（\u7535\u52a8\u8f66）是指一类以电力为动力的车辆，这一术语在工业制造的地理背景下具有重要意义。电动車不仅在安全性方面受到评估，还在视频中展示了其现代设计和实用性。特别是Vespa品牌的电动車，在不同的环境中如宽阔平坦的道路和城市街道上展示了其多功能性和实用性。此外，GOWEI品牌的电动三轮车也在特定的地理区域展示了其在各种环境中的实用性。总的来说，电动車作为一种环保且高效的交通工具，正在多个领域和环境中得到广泛的应用和展示。,89,,"['2a246ce9def5a1b31fe2a4dd387ec582' '5cef0a729380c841ae52c432e66e6f70'
+ '80407debab8d3468cf6db0ce78296f93' '97f45ec23ce7d8284dc6a6e6ebed1134'
+ 'ea35a4a25bd286420d303af63e2d0cfe']","[ 0.03286419 -0.03222704 -0.02332761 ...  0.03948224 -0.03880399
+  0.03413847]"
+89c08e793298442686292454a1abff31,"""电动三轮车生产流水线""","""EVENT""","""电动三轮车生产流水线 refers to the ongoing process of manufacturing electric tricycles, highlighting an industrial event or activity.""",90,,['ea35a4a25bd286420d303af63e2d0cfe'],"[ 0.01732291 -0.00397836 -0.01967582 ...  0.03069019 -0.04217059
+  0.04260252]"
+0467928aa65e4a4fba62bdb1467e3a54,"""湖边木栈道""","""GEO""","""湖边木栈道 is a location where an electric vehicle is showcased, highlighting the integration of design with natural environments.""",91,,['a8396d1f34d0b773b23aaf0eaa6351a5'],"[ 0.00942073 -0.00240422 -0.01896406 ...  0.02341393 -0.02012862
+  0.00079987]"
+43c3390303c6476cb65f584e37c3e81c,"""电动车停放在湖边木栈道上""","""EVENT""","""电动车停放在湖边木栈道上 is an event where an electric vehicle is displayed on a wooden pathway by a lake, emphasizing the design and its harmony with nature.""",92,,['a8396d1f34d0b773b23aaf0eaa6351a5'],"[ 0.02734348 -0.01154006 -0.0476781  ...  0.01228782 -0.00043387
+ -0.00633364]"
+fa14b16c17e3417dba5a4b473ea5b18d,"""EMPLOYEE""","""PERSON""","""Employee refers to the workers in the electric vehicle manufacturing industry, specifically involved in assembly and preparation of parts.""",93,,['38046dfd3e0af10881886c3255cf00f0'],"[ 0.01305826 -0.03128342 -0.00701954 ...  0.0321296  -0.014116
+  0.01382111]"
+7cc3356d38de4328a51a5cbcb187dac3,"""ELECTRIC VEHICLE ASSEMBLY LINE""","""EVENT""","""The Electric Vehicle Assembly Line is an ongoing process where employees work to assemble electric vehicles, demonstrating efficiency and productivity.""",94,,['38046dfd3e0af10881886c3255cf00f0'],"[-0.0105448  -0.02619973 -0.01381977 ...  0.02044051 -0.0484813
+  0.03115644]"
+bef16fb5fd7344cca5e295b13ef3e0cd,"""员工""","""PERSON""",员工是指在Vespa电动车工厂工作的个体，他们在生产线上执行各种装配步骤，包括准备和加工车辆部件，以及涉及电动车组件的检查和安装。此外，员工还负责电动车质量检查过程，确保产品符合所需标准。这些员工在制造或装配过程中扮演关键角色，特别是在电动车的生产中。,95,,"['049e8787154ca6499c48ddb9a6db8e03' '1dbf9bf448bc648bf53c1d9b0ffe58c2'
+ '3c672feda9ecc35630dd32afd4e069f8' 'f0dc4da2fcced627eb2b6ea00977272e']","[ 0.03208503  0.01054079 -0.02765951 ...  0.02458176 -0.04180107
+  0.0390854 ]"
+bb9e01bc171d4326a29afda59ece8d17,"""三轮车驾驶舱区域""","""GEO""","""The tricycle cockpit area is a specific part of the vehicle that is highlighted for its comfort and ease of operation.""",96,,['e1a095248bce10bc00cb166c5268d154'],"[ 0.01203198 -0.00087603  0.02184875 ...  0.01648216  0.01255281
+  0.01317254]"
+3c063eea52e94164b70c99431ea30bae,"""GOWEI休闲电动三轮车""","""ORGANIZATION""",GOWEI休闲电动三轮车是GOWEI品牌的一款产品，以其现代设计、舒适的座椅、遮阳篷和储物篮为特点，适合休闲旅行。此外，该车型还展示了其独特的顶部保护架和紧凑的后部设计，这些特性在介绍视频中得到了突出展示。,97,,['1396b770a3001803a17c59f30167048a' '2e8aae979bfab5f1e482e692c4b6cee6'],"[ 0.03919604 -0.02438358 -0.02933488 ...  0.06906955 -0.00627199
+  0.02053027]"
+252cc8452bfc4c2aa58cab68d8b61879,"""送外卖员""","""PERSON""","""\u9001\u5916\u5356\u5458"" is a person who operates an electric tricycle for delivering food, focusing on the operation and control of the vehicle. In a video, ""\u9001\u5916\u5356\u5458"" is featured, showcasing their process of operating and controlling the electric tricycle.",98,,['2e8aae979bfab5f1e482e692c4b6cee6' 'f85d550625f76babc79546ed9e2f88a4'],"[-0.00148084 -0.01827521 -0.01588749 ... -0.00510013 -0.02307688
+  0.02062356]"
+7e2c84548fb94ee395ba8588d8f2a006,"""顶部保护架""",,,99,,['2e8aae979bfab5f1e482e692c4b6cee6'],"[ 0.00908751  0.0212214   0.04530846 ...  0.00113755  0.00937149
+ -0.02535209]"
+f034618dde7948beb6dab30176d0fc87,"""电动车把手""",,,100,,['2e8aae979bfab5f1e482e692c4b6cee6'],"[ 0.06071296 -0.03765326 -0.05608232 ...  0.02162139 -0.02878954
+ -0.02441615]"
+5c41f96be13e49dba649454297834546,"""户外道路""","""GEO""","""户外道路 refers to the environment where the electric vehicles are demonstrated to be operational, highlighting their practical use in outdoor settings.""",101,,['df20428a20afaaff17ab012a6305bf45'],"[ 0.03113421 -0.04070455 -0.0210009  ...  0.00730014 -0.0298859
+  0.00958258]"
+7ea4afbf8a264f29af29950ce98105ba,"""电动车行驶在清新的户外道路上""","""EVENT""","""电动车行驶在清新的户外道路上 is an event where the GOWEI CP900 electric two-wheeled vehicle is demonstrated in an outdoor environment.""",102,,['1396b770a3001803a17c59f30167048a'],"[ 0.02943794 -0.02984153 -0.03409103 ...  0.00681939 -0.02080835
+  0.00077749]"
+91ff849d12b24574b0691dbddf44968b,"""图像展示了一个GOWEI品牌的休闲电动三轮车""","""EVENT""","""图像展示了一个GOWEI品牌的休闲电动三轮车 is an event where the GOWEI leisure electric tricycle is displayed, highlighting its features and design.""",103,,['1396b770a3001803a17c59f30167048a'],"[ 0.03933864  0.00601883 -0.04403684 ...  0.06764469  0.00383628
+  0.01339337]"
+d73c1f2fb3094d8dace42ad2a76e9a52,"""绿树成荫的路""","""GEO""","""绿树成荫的路 is a location described as having lush trees, where the GOWEI vehicle is demonstrated to be suitable for riding in such environments.""",104,,['4c4b3f6164e6c1c1f35e42882d128003'],"[ 0.01476911  0.01061295  0.01789093 ...  0.01424254 -0.01999722
+  0.00939055]"
+cdc8901e668749889bd49bebdc4ff1f6,"""两位男性""","""PERSON""","The two males are individuals observed in a warehouse setting, where they are involved in both the process of loading and documenting activities, as well as observing and interacting with GOWEI products related to the company's operations.",105,,['14e5f055707dde603b4258f17471e849' '4858949de0d193b1373fbfdb50d13c71'],"[ 0.01444109  0.03132796  0.01192661 ... -0.00968693 -0.02129751
+  0.05432927]"
+36084a9fab53433493f079e97e68bf65,"""摄影师""","""PERSON""","The 摄影师 (摄影師) is a professional responsible for capturing images and videos of GOWEI's activities, which encompass the loading process and technical inspections of vehicles, as well as other activities related to GOWEI products.",106,,['14e5f055707dde603b4258f17471e849' '4858949de0d193b1373fbfdb50d13c71'],"[ 0.03393065 -0.0195904  -0.00910096 ...  0.0120623  -0.0031132
+  0.03176117]"
+eebcc7ec8e3e4df7aea83659bbdc2199,"""仓库外围""","""GEO""","""仓库外围 is the location where the two men and the photographer are observing and filming activities near a loading truck.""",107,,['14e5f055707dde603b4258f17471e849'],"[-0.01517861 -0.00272602 -0.01236261 ... -0.00019869 -0.0303067
+  0.02390441]"
+ceadf262ef834e9ab146b20650912cae,"""警告标志旁的桥""","""GEO""","""警告标志旁的桥 is the specific location where the female rider stops with a GOWEI CP900 electric two-wheeler near a no-entry sign for two-wheelers.""",108,,['14e5f055707dde603b4258f17471e849'],"[ 0.06575323  0.01953289 -0.01618704 ...  0.01753596  0.00625529
+ -0.00419884]"
+7f65feab75424b53b24470d305ba331a,"""女性骑手""","""PERSON""","""女性骑手 is a rider wearing full cycling gear who stops at a bridge with a sign prohibiting two-wheeled vehicles, demonstrating a potential violation of rules.""",109,,['512344b077404946e11ccd8ecf0e353d'],"[ 0.07697883  0.0297723   0.01803772 ...  0.01046724  0.00517662
+ -0.01135907]"
+fd9cb733b28d420cb5cef01e545a132c,"""警告标志""","""GEO""","""警告标志 is a geographical feature, specifically a sign on a bridge that prohibits two-wheeled vehicles, which is relevant to the actions of the female rider and potentially the delivery rider.""",110,,['512344b077404946e11ccd8ecf0e353d'],"[ 0.05162621  0.02021475 -0.01606425 ...  0.01996655 -0.00868021
+ -0.02138682]"
+0fbcca3f17c649a08aea64b5a7d9ef36,"""操作人员""","""PERSON""",操作人员是Vespa电动车工厂的员工，他们专门负责驾驶叉车和组装车辆部件。此外，操作人员还负责操作叉车来运输带有标签的货物。,111,,['3e05cfc73c24c5a601d66872e8129d34' 'e7e464692968bb33b1aed8b722751300'],"[ 0.01619836  0.0241484  -0.03009295 ...  0.01926319 -0.0150259
+  0.02708982]"
+482027a59f32484c9c44fd700615c1b6,"""FORTE""","""GEO""","FORTE is an organization or brand involved in the production, distribution, and logistics of goods. It is identified through labels on cargo boxes, which suggest it could be a brand or division within a larger organization. These labels also indicate that FORTE is a destination or point of origin for cargo. In a logistics operation, FORTE's products are handled by a forklift, and they are also being packaged and shipped, as evidenced by the presence of packaging boxes bearing its name. Additionally, FORTE is mentioned alongside another organization in the context of packaging and shipping operations.",112,,"['0f09df3d97e7d6ca0ffa3bc9a2211361' '305a7e063d6a693cc1391bdaa7f3b68e'
+ '3e05cfc73c24c5a601d66872e8129d34' '97f45ec23ce7d8284dc6a6e6ebed1134'
+ 'e7e464692968bb33b1aed8b722751300']","[-0.0229515  -0.01238683  0.02282227 ...  0.04150913 -0.00512726
+  0.0046071 ]"
+de837ff3d626451282ff6ac77a82216d,"""GOWEI 外卖车""","""ORGANIZATION""",GOWEI 外货车是一家专注于制造具有显著动力系统和品牌标识的配送车辆的公司。该公司涉及电动车辆的制造或分销，这些车辆专为配送服务设计，特别强调骑行舒适性。此外，GOWEI 外货车还与配送行业紧密相关，专注于配送车辆的测试和使用。,113,,"['01e6b8d7b1f4b041d5887838550f984e' '1dbf9bf448bc648bf53c1d9b0ffe58c2'
+ 'f3c3bf6504c8866031ab0d3fc4713594']","[ 0.03747492 -0.01080658  0.01961531 ...  0.04177334 -0.02641609
+  0.01905026]"
+460295fed3ae4cd39f9f274cec9c2506,"""三轮车停放区""","""GEO""","""三轮车停放区 is a location where three-wheelers are parked outdoors, possibly used for storage of tools and materials, and equipped with a large umbrella for shade.""",114,,['f0dc4da2fcced627eb2b6ea00977272e'],"[-0.03847468 -0.02036821  0.00962488 ...  0.02497871  0.02292822
+  0.01508665]"
+553b285bba60460ab1ed8341ae61282b,"""电动车前部组件检查""","""EVENT""","""电动车前部组件检查 is an event where an employee is inspecting or installing components of an electric vehicle, highlighting the importance of quality control and detailed work.""",115,,['f0dc4da2fcced627eb2b6ea00977272e'],"[ 0.01970108  0.00891664 -0.04099634 ...  0.0322403  -0.02275856
+  0.01955832]"
+cec95bf17e7e4c939b56c9c6f402a29f,"""美国用户评价GOWEI电动三轮车""",,"The event known as ""\u7f8e\u56fd\u7528\u6237\u8bc4\u4ef7GOWEI\u7535\u52a8\u4e09\u8f6e\u8f66"" involves users from the United States who offer feedback and reviews on GOWEI's electric three-wheel vehicles. This event serves as a platform for consumers to express their opinions and experiences with the products, potentially influencing future developments and improvements in GOWEI's offerings.",116,,['5bece06ab300c268e54c1648338a77b0' 'f0dc4da2fcced627eb2b6ea00977272e'],"[ 0.02941953  0.00694518 -0.00365431 ...  0.04874179 -0.00940341
+  0.02150295]"
+599164aead034bc19446efacc77554d2,"""叉车""","""GEO""","叉车（""\u53c9\u8f66""）在物流或制造环境中用于装卸箱子，同时叉车操作员负责将大型包裹装入集装箱，这表明他们在物流过程中的重要作用。",117,,['4909eecf93a9ecd5a5c7782b9879f57c' '97f45ec23ce7d8284dc6a6e6ebed1134'],"[ 0.0146496  -0.00724884  0.01231652 ... -0.00916956 -0.01088411
+  0.02906047]"
+bbf148ae4d48422f8fdef754cfa2b9e4,"""71322288115886/ORIGIN_SOURCE/1718256987_YZWYJ6SKJBAANFQP.MP4""","""ORGANIZATION""","""This entity represents a video file related to the processing of electric vehicle parts in a large workshop.""",118,,['3c40734ee9f71cf24746d45df2cd50fd'],"[-0.01033061  0.03505107 -0.02741944 ...  0.00282427 -0.04160883
+  0.00616758]"
+de61b2670999433f807a6a1dc2b81e43,"""装备全套骑装的女性""","""PERSON""","""A woman equipped with full riding gear, featured in a video demonstrating the practical use of an electric bike on a park bike path.""",119,,['3c40734ee9f71cf24746d45df2cd50fd'],"[ 0.07635081  0.01534152 -0.0577473  ...  0.01507393 -0.02920495
+  0.00208334]"
+3e95dacfe57b4d57b5da4310ef2e157f,"""三轮车装载着饲料桶""","""EVENT""","""This event involves a tricycle loaded with feed buckets, shown in a video, possibly indicating a delivery or transportation activity.""",120,,['3c40734ee9f71cf24746d45df2cd50fd'],"[-0.00723491 -0.00239758 -0.03293667 ...  0.03916583 -0.0224639
+ -0.00107713]"
+1f1545308e9347af91fd03b94aadc21f,"""电动车实际使用场景""",,,121,,['3c40734ee9f71cf24746d45df2cd50fd'],"[ 0.01528097 -0.02277164 -0.02072219 ...  0.00619628 -0.0411807
+  0.00464122]"
+6ea81acaf232485e94fff638e03336e1,"""CP900 ELECTRIC TWO-WHEELER""","""EVENT""","The CP900 Electric Two-Wheeler, a product by GOWEI, combines dynamic body stickers with an overall design that emphasizes both aesthetics and functionality. This two-wheeler is also noted for its specifications and practical usage, making it a versatile choice for various applications.",122,,['4f24c9533772e40a7553afa10e88587a' 'ebe95f8c725f871c31b5af529d08706a'],"[ 0.05999978 -0.02738902 -0.01181795 ...  0.01929282 -0.0002889
+  0.01723425]"
+d136b08d586d488f9e4188b524c85a29,"""ELECTRIC TRICYCLE""","""EVENT""","The Electric Tricycle, a product by GOWEI, is showcased as a versatile personal transportation tool, particularly suitable for home use and agricultural settings. It is demonstrated in operation on a farm, where it efficiently carries feed buckets to feed farm animals, showcasing its utility and practicality. The tricycle's mobility and speed are evident as it navigates alongside other vehicles and animals, highlighting its effectiveness in diverse farm environments.",123,,"['4f24c9533772e40a7553afa10e88587a' 'c6c99f2e35dcb9df2031cb0fc648e919'
+ 'ebe95f8c725f871c31b5af529d08706a']","[ 0.02946922 -0.01018988 -0.02382406 ...  0.05048313 -0.01950937
+  0.02389867]"
+cccfa151fedc4b218a8d96adc7dceabe,"""AMERICAN USERS""","""PERSON""","""American Users are individuals who have provided reviews and feedback on GOWEI's electric tricycles, indicating their experience and satisfaction with the product.""",124,,['ebe95f8c725f871c31b5af529d08706a'],"[ 0.03066787  0.03953944 -0.01546148 ...  0.02190967 -0.00121346
+ -0.00453145]"
+ce54725672a74ebcabe6127577dacb2b,"""车辆的驾驶部分""","""EVENT""","""车辆的驾驶部分 refers to the event of inspecting the driving components of a vehicle, specifically focusing on the maintenance and design of the Vespa电动车.""",125,,['9fa7ce8bbc4066276658927034f6ec8f'],"[ 0.0261252   0.00954921 -0.02484147 ...  0.02846746 -0.02830981
+  0.01002217]"
+ea2b28ca1a974ffab4517811dc1d1e5c,"""市区道路""","""GEO""","""市区道路 refers to busy urban areas where vehicles like electric scooters and motorcycles are commonly used.""",126,,['0967c868d34be08b096d247d2fa2962d'],"[ 0.06858163 -0.03204836 -0.00106575 ...  0.00699014 -0.03307616
+  0.02457353]"
+aff21f1da1654e7babdcf3fb0e4a75fc,"""女性""","""PERSON""","The woman, identified in various contexts, is depicted in a series of scenarios involving the GOWEI CP900 electric two-wheel vehicle. In one instance, she is adjusting her helmet while driving, highlighting the critical role of safety equipment in the practical use of the vehicle. In another setting, she is standing beside a parked electric motorcycle, which underscores the vehicle's stylish design. Additionally, the woman is shown preparing to wear and adjusting her helmet, emphasizing the importance of safety measures before operating an electric vehicle. Furthermore, she is described as a person who is ready to don a helmet, potentially participating in the process of electric vehicle painting and craftsmanship. Overall, the woman's actions and preparations consistently focus on the integration of safety, style, and practicality in the use of electric two-wheel vehicles.",127,,"['ae24821df740a78537c67a33efc6b7f9' 'b89d8cde3dfc3ad418c9bdbc92efb6c2'
+ 'df0fba68b6162db75d1c3bc777b77c40' 'dff4e86c6cdf187dc3937ef4cc9dccb8']","[ 0.06889119 -0.00433092 -0.01037692 ...  0.02071059 -0.01949995
+  0.01274775]"
+dc2cc9016e3f49dbac7232f05cce794d,"""配送员""","""PERSON""","""A delivery person from GOWEI 外卖车 is checking their phone for orders or delivery information.""",128,,['f3c3bf6504c8866031ab0d3fc4713594'],"[ 0.02121264 -0.01726809  0.00139296 ...  0.00600536 -0.01452034
+  0.01648651]"
+6ea0cef05f694dcea455478f40674e45,"""电动车组装""","""EVENT""","The event of assembling electric vehicles, known as ""\u7535\u52a8\u8f66\u7ec4\u88c5,"" is currently taking place at the Vespa electric scooter factory. This event showcases the meticulous craftsmanship involved in the assembly process, particularly highlighting a worker assembling the rear wheel of an electric vehicle. This demonstrates the seamless integration of advanced technology with traditional craftsmanship in the production of electric vehicles.",129,,['84b209fa62116d8803fd8181c3ccfa1a' 'f3c3bf6504c8866031ab0d3fc4713594'],"[ 0.03343507 -0.04441085 -0.02450212 ...  0.03268562 -0.04900425
+  0.01706808]"
+7ab5d53a872f4dfc98f3d386879f3c75,"""外卖车测评""","""EVENT""","The entity known as ""外测评"" (GOWEI 外测评) is an organization that specializes in the evaluation and testing of electric vehicle components and processes. This involves the inspection and operation of delivery-related tasks at their facility, where they assess the performance and functionality of delivery vehicles.",130,,['27cbb69e62cc8c86ffcfbb9373e820bc' 'f3c3bf6504c8866031ab0d3fc4713594'],"[ 0.00089214  0.00460043 -0.01956873 ...  0.01257902 -0.01231491
+  0.0078926 ]"
+af1d0fec22114a3398b8016f5225f9ed,"""两位工作人员""","""PERSON""","""两位工作人员 are individuals who are inspecting or operating electric vehicle parts on a conveyor belt.""",131,,['27cbb69e62cc8c86ffcfbb9373e820bc'],"[-0.00655026  0.00855031 -0.03232682 ... -0.00409518 -0.03702644
+  0.02865949]"
+b07a7f088364459098cd8511ff27a4c8,"""电动摩托车的支撑脚架""","""GEO""","""电动摩托车的支撑脚架 refers to a specific part of an electric motorcycle, highlighting its design and material.""",132,,['27cbb69e62cc8c86ffcfbb9373e820bc'],"[ 0.04449053 -0.01971239 -0.02328645 ...  0.03716221 -0.0188414
+  0.01635858]"
+8870cf2b5df64d2cab5820f67e29b9f1,"""外卖配送员""","""PERSON""","""\u5916\u5356\u914d\u9001\u5458"" is a person who rides delivery vehicles, specifically using GOWEI\u5916\u5356\u8f66 for delivering food, demonstrating the practicality and flexibility of these vehicles in urban settings. This role showcases the practical application of such vehicles in facilitating efficient and convenient food delivery services within city environments.",133,,['0d0caff49769750474f475eba671fe09' '778b909250a7f492231efee84460b062'],"[ 0.01243827  0.00078582  0.03386985 ...  0.00483036 -0.0245125
+  0.02103383]"
+cd130938a2844050be991af70baf5ee0,"""城市道路""","""GEO""","""城市道路 refers to the urban environment where the delivery vehicles are used, highlighting their suitability for city traffic.""",134,,['0d0caff49769750474f475eba671fe09'],"[ 0.05741868 -0.03049195  0.00742948 ...  0.01091846 -0.02444047
+  0.01220851]"
+43544b99c3b04b059546198a0ae6366d,"""CNC制动系统""","""EVENT""","""CNC制动系统 is a technological event focused on the advanced braking technology of electric motorcycles.""",135,,['c294a57dc7d88de4ee1ec83abbe0d5bf'],"[ 0.03274505  0.05670307 -0.0502463  ...  0.00174315 -0.013132
+ -0.00524613]"
+a671bf7fea2f4514b6e96ba99127fafd,"""CP900 ELECTRIC TWO-WHEELED VEHICLE""","""EVENT""","The CP900 Electric Two-Wheeled Vehicle, a product event or launch by GOWEI, is prominently featured to showcase a range of advanced features. These include high-precision CNC aluminum shock absorbers, an X-shaped reinforcement design, and a focus on enhanced stability and durability. Additionally, the vehicle highlights its CNC braking system and high-quality manufacturing details, emphasizing its capabilities in terms of stability, design, speed, and control system. Overall, the CP900 Electric Two-Wheeled Vehicle is presented as a comprehensive package of cutting-edge technology and robust construction.",136,,"['1378061b3f09947483c0d8250d53c52e' 'c6c99f2e35dcb9df2031cb0fc648e919'
+ 'e6047e0c24c8d6a88dd59bfc923e270c']","[ 0.0507574  -0.01166085 -0.00113119 ...  0.02583285  0.0007647
+  0.00313394]"
+525f41ea20274a05af4e52b625b473f3,"""FARM""","""GEO""","""The farm is a location where the electric tricycle is tested and shown to have good maneuverability and speed.""",137,,['c6c99f2e35dcb9df2031cb0fc648e919'],"[ 0.01588451  0.02917103 -0.02095344 ...  0.02444097 -0.02422918
+  0.00542191]"
+071a416efbec4f0886c19ac68f6d43cb,"""都市建筑""","""GEO""","""都市建筑 refers to the urban environment where the外卖配送员 is seen waiting for orders, indicating the setting of the vehicle's use.""",138,,['778b909250a7f492231efee84460b062'],"[ 0.02430959 -0.02516361  0.06663786 ... -0.00164039 -0.00454677
+ -0.00793881]"
+6d8473ef3b1042bf87178a611e3dbcc6,"""电动车手把部分""","""EVENT""","""电动车手把部分 is an event showcasing the detailed features of the electric vehicle's handle, highlighting the CNC精工的制动和离合器手柄.""",139,,['778b909250a7f492231efee84460b062'],"[ 0.0578776   0.00211196 -0.05448082 ...  0.02543174 -0.02190261
+ -0.00347949]"
+30c9641543c24773938bd8ec57ea98ab,"""CNC精工的制动和离合器手柄""",,,140,,['7d4b8691bbdc841864d8c2461f666881'],"[ 0.01416414  0.07419642  0.00572482 ... -0.00486059 -0.02264406
+ -0.00889174]"
+18b839da898e4026b81727d759d95c6a,"""带有CNC标识的独特造型""",,,141,,['7d4b8691bbdc841864d8c2461f666881'],"[ 0.05978215  0.01891241 -0.00761228 ...  0.00083022 -0.02192093
+ -0.03782482]"
+eeef6ae5c464400c8755900b4f1ac37a,"""CP900电动两轮车""","""EVENT""","The CP900电动两轮车 is a product model manufactured by GOWEI, which has been featured in various scenes to demonstrate its capabilities. This model, part of GOWEI's electric two-wheel vehicle lineup, is known for its unique design, including CNC branding and an X-shaped reinforcement design that enhances its shock absorption capabilities. The CP900电动两轮车 not only showcases the innovative features of GOWEI's products but also highlights the company's commitment to advanced design and functionality in its electric vehicles.",142,,"['5bece06ab300c268e54c1648338a77b0' '802f4b29a8abc48e6c0b825cef4c104b'
+ 'ceb871f757e33844841b6fe026be661f']","[ 0.05227521 -0.03187978  0.00545328 ...  0.0276625  -0.00214736
+  0.0136049 ]"
+422433aa45804c7ebb973b2fafce5da6,"""木质大门""","""GEO""","""木质大门 is a geographical feature where a user is seen preparing to drive a GOWEI electric three-wheel vehicle, indicating a specific location for the vehicle's usage.""",143,,['5bece06ab300c268e54c1648338a77b0'],"[ 0.03171883  0.04619619  0.00677686 ...  0.02862631 -0.03968275
+  0.00307541]"
+86505bca739d4bccaaa1a8e0f3baffdc,"""电动两轮车""","""GEO""","电动两轮车 refers to the category of electric two-wheel vehicles that are showcased by GOWEI in their exhibition, focusing on the vehicles' rear and suspension systems.",144,,['00f59d36c4c378594bc3e6b592be352b' '84b209fa62116d8803fd8181c3ccfa1a'],"[ 0.01051597 -0.03415576 -0.03616095 ...  0.03823373 -0.02431007
+  0.02068271]"
+1af9faf341e14a5bbf4ddc9080e8dc0b,"""风景优美的道路""","""GEO""","""A scenic road where the woman is driving the electric vehicle, showcasing the vehicle's operating environment and handling.""",145,,['b89d8cde3dfc3ad418c9bdbc92efb6c2'],"[ 0.05497206 -0.0518541  -0.0527655  ...  0.02238936 -0.02794173
+  0.00059586]"
+353d91abc68648639d65a549e59b5cf3,"""高速行驶中的动态""","""EVENT""","""The event of the vehicle being in high-speed motion, focusing on the wheels to highlight the vehicle's performance and stability.""",146,,['b89d8cde3dfc3ad418c9bdbc92efb6c2'],"[ 0.01773208  0.01269499 -0.03129642 ...  0.01465102 -0.00987601
+ -0.00188731]"
+7ce637e4f35b42e3a9f8272cab69cd22,"""女性驾驶者""","""PERSON""","The character known as ""女性驾驶者"" is depicted driving the GOWEI CP900 electric two-wheeler in various environments, highlighting the vehicle's versatility and suitability for both leisure and commuting purposes. This depiction often includes the character navigating a blue pedestrian path, further emphasizing the practicality and adaptability of the GOWEI CP900 in diverse settings.",147,,['4753682c04b68fe0547c8d431c70c20e' 'ceb871f757e33844841b6fe026be661f'],"[ 0.07684309 -0.00183547 -0.0058696  ...  0.00730295  0.00050062
+  0.00857415]"
+4d999d7744b04a998475f8f8531589f0,"""蓝色人行道""","""GEO""",蓝色人行道是一个宜人的环境，其中一位女性驾驶员正在操作GOWEI CP900电动两轮车。这个场景突出了该车在这样环境中的实用性，并且驾驶员被树木和天空所环绕。,148,,['4753682c04b68fe0547c8d431c70c20e' 'ceb871f757e33844841b6fe026be661f'],"[ 0.07306769 -0.00028856 -0.01133202 ... -0.01255694 -0.01517637
+  0.00350514]"
+9a6f414210e14841a5b0e661aedc898d,"""白色和金属拱门""","""GEO""","""白色和金属拱门 is a location where the female driver passes through while driving the GOWEI CP900, with a background of green environments.""",149,,['ceb871f757e33844841b6fe026be661f'],"[ 0.01578472  0.00809     0.04018648 ...  0.00747073 -0.02737951
+  0.01600871]"
+db541b7260974db8bac94e953009f60e,"""CP900 ELECTRIC TWO-WHEEL VEHICLE""","""TECHNOLOGY""","The CP900 Electric Two-Wheel Vehicle, produced by GOWEI, is a versatile and technologically advanced product that has been featured in various contexts. It is equipped with advanced braking systems and shock absorption technology, enhancing its performance and safety on urban roads. Additionally, the CP900 has been showcased in a video that highlights its handlebar controls and the convenience of its storage compartment. This electric two-wheel vehicle is not only designed for urban environments but also has been observed in use by a female driver, indicating its adaptability and appeal to a diverse range of users.",150,,"['310055c05ddf538e4ee6a060a3402c1a' '41cfe1519409130feeb08ce0d47c96d0'
+ '78dc00c6a56e2757292034dd595951a3']","[ 0.0488073  -0.02700706 -0.00644277 ...  0.02453514 -0.00014905
+  0.00700159]"
+f2ff8044718648e18acef16dd9a65436,"""FEMALE DRIVER""","""PERSON""","""The Female Driver is a user of the GOWEI CP900 electric two-wheel vehicle, seen driving through various urban settings.""",151,,['41cfe1519409130feeb08ce0d47c96d0'],"[ 0.05045471 -0.0228754   0.00830675 ...  0.01291329 -0.01853102
+ -0.00215721]"
+00d785e7d76b47ec81b508e768d40584,"""URBAN ENVIRONMENT""","""GEO""","""The Urban Environment is a setting where the GOWEI CP900 electric two-wheel vehicle is demonstrated, including areas with graffiti and green spaces.""",152,,['41cfe1519409130feeb08ce0d47c96d0'],"[ 0.02395266 -0.01156025  0.04041578 ... -0.00733004 -0.00806513
+  0.0014641 ]"
+87915637da3e474c9349bd0ae604bd95,"""男子""","""PERSON""","""A man is depicted sitting on a blue electric tricycle, wearing a straw hat, and speaking about the utility of the vehicle in an outdoor setting.""",153,,['cc8cfdeade906fe8fbf1578ff98dd507'],"[ 0.03742892  0.03642612 -0.05539805 ...  0.02023221 -0.00714835
+  0.01126797]"
+8f1eba29f39e411188200bf0d14628ec,"""户外场景""","""GEO""","""The outdoor scene features open sky and sandy ground, where the man is evaluating the electric tricycle's usefulness in grassy areas.""",154,,['cc8cfdeade906fe8fbf1578ff98dd507'],"[ 0.04572976  0.02701208 -0.0168238  ...  0.01416959 -0.01079654
+  0.00778982]"
+7282c73622b8408e97289d959faff483,"""电动三轮车评价事件""","""EVENT""","""The event involves a man evaluating the practicality of an electric tricycle in an outdoor setting, with a focus on its usefulness in grassy areas.""",155,,['cc8cfdeade906fe8fbf1578ff98dd507'],"[ 0.02505267  0.00782896 -0.0254791  ...  0.0321687  -0.01625758
+  0.02891718]"
+3deb220d31f74103aa44870a36a63220,"""农村或荒野区域""","""GEO""","""农村或荒野区域 is a geographical location where the electric三轮车 is being evaluated for its practicality.""",156,,['c78953af3e339c6bfcd1dcb0e57042e7'],"[ 0.00446041 -0.00924928  0.02540924 ...  0.03008643 -0.0224006
+  0.02961346]"
+af7a1584dd15492cb9a4940e285f57fc,"""电动车侧面特写""","""EVENT""","""电动车侧面特写 is an event where the stability and speed of GOWEI's electric两轮车 are highlighted in a video.""",157,,['c78953af3e339c6bfcd1dcb0e57042e7'],"[ 0.03790222 -0.02660492 -0.03132435 ...  0.05301421 -0.02294919
+  0.00985458]"
+6e8d9029ce4e4ea182367173ab2c7bbf,"""工人们""","""PERSON""","""工人们 are individuals working in the battery assembly area of the Vespa电动车工厂.""",158,,['19b40ba594419544163298cacfc2c257'],"[ 0.0578342  -0.01163246 -0.01476936 ...  0.01787749 -0.01734796
+  0.01356065]"
+cbf232211e7d4eb6abdbe182f71c2cf0,"""电池技术""","""GEO""","""电池技术 refers to the geographical importance of battery technology in the production of electric vehicles.""",159,,['19b40ba594419544163298cacfc2c257'],"[ 0.03034578 -0.04922527  0.03706596 ...  0.009676    0.00811671
+  0.04132906]"
+bb0cff774a4440b289cc6f3b929fe13c,"""电动车生产""","""EVENT""","""电动车生产 is the event of manufacturing electric vehicles, focusing on battery assembly and vehicle performance.""",160,,['19b40ba594419544163298cacfc2c257'],"[ 0.04955548 -0.03616885  0.00489527 ...  0.03712504 -0.04290374
+  0.0451487 ]"
+ce55841ebfdd47008bab8c258f10372e,"""驾驶者""","""PERSON""","The driver, identified as ""\u9a7e\u9a76\u8005"", is an individual who is wearing full safety equipment while operating the GOWEI CP900 electric two-wheeled vehicle on a bridge. The driver expresses satisfaction with the vehicle, and the background of green vegetation highlights the driver's sense of enjoyment and the vehicle's capabilities.",161,,['0dc4e862433c2612550642af63394c2e' '26a1b0a67e27fa142dffd9c49a560d08'],"[ 0.07327087 -0.00895412  0.02732643 ...  0.00680431 -0.01652963
+  0.00465791]"
+6090e736374d45fd84f0e4610a314f8f,"""电动车大规模生产""","""EVENT""","""电动车大规模生产 is an event described in the text where a warehouse full of neatly arranged electric vehicles is shown, indicating the scale of production and readiness for distribution.""",162,,['4753682c04b68fe0547c8d431c70c20e'],"[ 0.06686897 -0.00962072 -0.02856323 ...  0.0534066  -0.05287519
+  0.01503445]"
+0e8d921ccd8d4a8594b65b7fd19f7120,"""碟刹片""","""GEO""","""碟刹片 refers to a geographical location where the production or design of disc brake components for electric two-wheel vehicles is focused.""",163,,['049830e8de6e5250d1561dd447fea882'],"[ 0.01066263 -0.00173042  0.01590932 ...  0.0123376   0.00219585
+  0.02129024]"
+59c726a8792d443e84ab052cb7942b4a,"""电动车后轮的减震器和带有设计图案的碟刹片""","""EVENT""","""电动车后轮的减震器和带有设计图案的碟刹片 is an event or feature showcase of the GOWEI CP900 electric two-wheel vehicle, highlighting its braking and suspension capabilities.""",164,,['049830e8de6e5250d1561dd447fea882'],"[ 0.05072292  0.01485284 -0.03960756 ...  0.04696117 -0.00947718
+ -0.00409242]"
+4f2c665decf242b0bfcaf7350b0e02ed,"""电动车操作者""","""PERSON""","""电动车操作者 is an individual wearing a helmet and riding gear, demonstrating the practical use and safety measures of electric vehicles.""",165,,['98ddfa2535db30d98bd9074508b8ba47'],"[ 0.00311235 -0.01241551 -0.03179003 ...  0.00316319 -0.03644443
+  0.01207659]"
+66cdf168f36d4a57a505028c97dc06e0,"""电动车展示""","""EVENT""","""电动车展示 is an event where electric vehicles are showcased, highlighting their design, practical use, and safety features.""",166,,['98ddfa2535db30d98bd9074508b8ba47'],"[ 0.01445671 -0.04710972 -0.05773563 ...  0.03178652 -0.04683609
+ -0.01074562]"
+38f51478f41f48db9bee570859b6f43e,"""操作者""","""PERSON""","""The operator is a person wearing a helmet and riding gear, demonstrating the practical use of an electric vehicle and emphasizing safety measures.""",167,,['807bf879b6d4d9fd4290e8a27551104c'],"[ 0.01016001  0.01513425 -0.0429054  ... -0.0119682  -0.02808502
+  0.00134847]"
+896d2a51e8de47de85ba8ced108c3d53,"""绿色的巷道""","""GEO""","""绿色的巷道 is a location where the electric vehicle is being driven, highlighting the practical application of the vehicle in urban settings.""",168,,['807bf879b6d4d9fd4290e8a27551104c'],"[ 0.01796197 -0.0350675  -0.00292663 ... -0.00647534 -0.03682666
+  0.01870267]"
+14555b518e954637b83aa762dc03164e,"""城市自行车道""","""GEO""","""\u57ce\u5e02\u81ea\u884c\u8f66\u9053"" is a location in an urban setting characterized by modern style arches and high-rise buildings. It is specifically designed to accommodate and showcase electric vehicles, making it suitable for urban-friendly transportation.",169,,['d4da6ab24f78822888acd815c93637b3' 'f9624fb070dbb7b8e5bc20a836558f2d'],"[ 0.03365903 -0.04311842  0.01206777 ... -0.0178421  -0.04537432
+  0.00197071]"
+b1f6164116d44fe8b8f135d7f65b9e58,"""桥""","""GEO""","""\u6865"" is a geographical location where a driver is demonstrating the stability and versatility of electric vehicles on various road surfaces. The driver is observed wearing full safety gear during these demonstrations, highlighting the robustness and adaptability of electric vehicles in different conditions.",170,,['26a1b0a67e27fa142dffd9c49a560d08' 'd4da6ab24f78822888acd815c93637b3'],"[ 0.03239229 -0.03364971  0.01231454 ... -0.00100201 -0.02363133
+  0.01935337]"
+c8b2408617804483b620e1a6691ac90d,"""电动车稳定性展示""","""EVENT""","""电动车稳定性展示 is an event where the stability of electric vehicles is demonstrated, particularly on different road surfaces.""",171,,['d4da6ab24f78822888acd815c93637b3'],"[ 0.01739176 -0.03497283 -0.03506748 ...  0.03563537 -0.03286688
+ -0.00119125]"
+a5e0d1644eb547ba9a5c3211aac4631a,"""电子显示屏""",,电子显示屏是一种地理特征，用于在工厂环境中显示产品信息或导航辅助。,172,,['26a1b0a67e27fa142dffd9c49a560d08' '5d5e26d75f7211cf1e99088c52f84ae2'],"[-0.02658331  0.00960484 -0.01912468 ...  0.01854032 -0.00290058
+ -0.01252667]"
+5a28b94bc63b44edb30c54748fd14f15,"""年轻女性""","""PERSON""","""年轻女性 is a person who is operating an electric scooter, possibly demonstrating its features or operation for marketing purposes.""",173,,['5d5e26d75f7211cf1e99088c52f84ae2'],"[ 0.04980413 -0.00327754 -0.04041807 ... -0.0043338  -0.01115254
+  0.01761205]"
+f97011b2a99d44648e18d517e1eae15c,"""展示多款摩托车和电动车""","""EVENT""","""展示多款摩托车和电动车 is an event where multiple models of motorcycles and electric vehicles are displayed, showcasing the variety and quality of the products.""",174,,['5d5e26d75f7211cf1e99088c52f84ae2'],"[ 0.01850169 -0.01874256 -0.04046742 ...  0.01300739 -0.03340168
+ -0.00326618]"
+35489ca6a63b47d6a8913cf333818bc1,"""座椅特写""","""EVENT""","""座椅特写 is an event where the comfort design and material of a vehicle seat are highlighted.""",175,,['6ae1c7204147c3fdf2978d85805cddbb'],"[ 2.56251730e-02  2.31642555e-03 -2.04904042e-02 ...  1.14193847e-02
+ -7.85196753e-05 -4.40227315e-02]"
+5d3344f45e654d2c808481672f2f08dd,"""现代化展厅中心""","""GEO""","""现代化展厅中心 is a location where a variety of electric vehicles are displayed, focusing on design and technology.""",176,,['6ae1c7204147c3fdf2978d85805cddbb'],"[ 0.00378103 -0.04583898 -0.0190844  ...  0.00108253 -0.0485702
+  0.0061111 ]"
+6fb57f83baec45c9b30490ee991f433f,"""女主角""","""PERSON""","The character known as ""\u5973\u4e3b\u89d2"" is prominently featured in a series of videos, where she demonstrates the capabilities and features of the GOWEI CP900 electric two-wheel vehicle. In these videos, ""\u5973\u4e3b\u89d2"" showcases the vehicle in various settings, including a natural park, to highlight its practicality and suitability for daily life. She also emphasizes the vehicle's stylish design and its fashionable appearance, often interacting with the vehicle to demonstrate its coordination and compatibility with modern fashion trends. Through her demonstrations, ""\u5973\u4e3b\u89d2"" effectively presents the GOWEI CP900 as a practical, stylish, and fashionable choice for electric two-wheeled vehicles.",177,,"['16b542f87182585fd522d0db1c69920d' '6e3a4a646b51e3e35c8ccd80ed7da57c'
+ '99303a7e746e26805c54947cd3d1645c' 'e96254072a3fbfbdf47fdd8de2b2ccd5'
+ 'f989d285ca4b573e3da1a84f0d2e8d98']","[ 0.09777603 -0.02624483 -0.01306337 ...  0.02810471 -0.02017811
+  0.02553631]"
+68762e6f0d1c41cd857c6b964a8e76c3,"""公园小径""","""GEO""","""\u516c\u56ed\u5c0f\u5f84 is a green, lush path within a park, known for its scenic beauty and suitability for outdoor activities. It is specifically noted as a location where the female protagonist rides an electric vehicle, highlighting its use as a tranquil and eco-friendly route within the park.""",178,,['16b542f87182585fd522d0db1c69920d' '99303a7e746e26805c54947cd3d1645c'],"[ 0.03439876 -0.03340169 -0.02223718 ...  0.00136851 -0.02278819
+  0.00822579]"
+70634e10a5e845aa8c6a32fe7e8eb2b2,"""自然公园""","""GEO""",自然公园是一个地理位置，女主角在此展示GOWEI CP900电动两轮车。这个地点为车辆的环境兼容性和户外功能提供了一个强调的背景。,179,,['6e3a4a646b51e3e35c8ccd80ed7da57c' 'e96254072a3fbfbdf47fdd8de2b2ccd5'],"[ 5.53657971e-02 -1.70832910e-02  6.17941609e-03 ...  1.66407190e-02
+ -1.06162028e-02  6.11994546e-05]"
+04085f7cf46544b79597fc49286ff84d,"""高性能摩托车""","""EVENT""","""The introduction of a high-performance motorcycle designed for performance enthusiasts, highlighting the manufacturing capabilities of Vespa电动车工厂.""",180,,['04f3287fa93d1ec89dfa19aa4a14cf49'],"[ 0.04544798 -0.01882224 -0.05927002 ...  0.01738053 -0.01541249
+  0.00437946]"
+d203efdbfb2f4b2a899abfb31cf72e82,"""电动滑板车系列""","""EVENT""","""The presentation of a series of colorful, simple, and stylish electric scooters, emphasizing the product's convenience and the market's youth trend.""",181,,['04f3287fa93d1ec89dfa19aa4a14cf49'],"[ 0.07025418 -0.04296619 -0.06489581 ...  0.03884818 -0.00621422
+  0.00804376]"
+6731a665561840c2898ce8c9788e4c88,"""展示台""","""GEO""","""展示台 is a location where Vespa electric scooters are displayed, featuring modern and professional setups.""",182,,['9d4ff86767a6afa86a1d9b27e2a937c1'],"[-0.01466477 -0.04174018 -0.05137851 ...  0.02733451 -0.00809671
+ -0.00905537]"
+4026806fa92f4e849a59a7f5c9a45c79,"""展示牌""","""GEO""","""展示牌 is a part of the display setup that provides information about the features of the Vespa electric scooters.""",183,,['9d4ff86767a6afa86a1d9b27e2a937c1'],"[-0.00212094 -0.0153452  -0.04566965 ...  0.03559402  0.00137533
+ -0.01318613]"
+68e0c60d2e8845d89d9d0ad397833648,"""黑色电动车摩托""","""GEO""","""黑色电动车摩托 is a specific model of electric scooter displayed on a stage with related tools and equipment, highlighting its maintenance and utility.""",184,,['1997c6706418bac7ba9ffb15528654ea'],"[ 0.05027596 -0.00595651 -0.05299358 ...  0.05032282 -0.03603189
+  0.00964638]"
+101572f552b54e529fe7765c05168981,"""蓝色的三轮电动车""","""GEO""","""蓝色的三轮电动车 is a specific model of electric tricycle, likely designed for cargo or industrial use, also displayed at the Vespa电动车工厂.""",185,,['1997c6706418bac7ba9ffb15528654ea'],"[ 0.00269846 -0.01132322 -0.04819053 ...  0.05773057 -0.01410944
+  0.02108615]"
+60c58026b2764b40adffca6eaa31d6d9,"""骑手""","""PERSON""","The rider, known as ""骑手,"" is portrayed as a friendly and approachable individual who wears a helmet while operating a black modern electric scooter. These riders are specifically associated with demonstrating the dynamic performance of Vespa electric vehicles in various outdoor settings, thereby highlighting the vehicles' capabilities in real-world conditions.",186,,['258e0c2b285c0e9d4863253404eb139a' '5cef0a729380c841ae52c432e66e6f70'],"[ 0.06174988 -0.02631183 -0.03732757 ... -0.00419357 -0.00440244
+  0.01079723]"
+ad1595a78935472999444c9330e7730e,"""城市街道""","""GEO""","城市街道（""\u57ce\u5e02\u8857\u9053""）是指现代城市中，GOWEI品牌不锈钢电动三轮车和Vespa电动车辆被展示和使用的地点。这些描述强调了城市街道作为这些电动交通工具的典型使用环境，骑手们在城市环境中展示电动滑板车的性能和适用性，突出了它们在都市环境中的便利性和适应性。",187,,"['5cef0a729380c841ae52c432e66e6f70' '5e086d7e96373277416bc604c8b6edd8'
+ 'c13cc646bcdb2b30c2b7dfa1c947c34d']","[ 0.04885059 -0.04224976 -0.02475867 ...  0.01736885 -0.01692435
+  0.01250157]"
+735d19aea0744b2295556841c5c4c3fd,"""两名骑手""","""PERSON""","""两名骑手 are individuals who demonstrate the capabilities of electric scooters, such as Vespa, in various urban environments.""",188,,['5e086d7e96373277416bc604c8b6edd8'],"[ 0.05833323 -0.02658416 -0.03354667 ... -0.00765877 -0.01152613
+  0.01748225]"
+c725babdb14a485582f8fbdf95429030,"""电动车骑手""","""PERSON""","电动車骑手 refers to a group of individuals who ride electric scooters in a coordinated manner, showcasing the vehicles' practicality, ease of use, and the variety of scooter models in use. This group demonstrates the collective riding characteristics and highlights the versatility and efficiency of electric scooters as a mode of transportation.",189,,['5e086d7e96373277416bc604c8b6edd8' '6d087ea57ab16ea87d0079654ee55833'],"[ 0.06594237 -0.03814049 -0.0138897  ...  0.01424931 -0.03153277
+ -0.00499512]"
+a0047221896d418d849847d422fa4bb8,"""宽敞的街道""","""GEO""","""宽敞的街道 is a location where electric scooter riders are shown riding in a line, highlighting the environment suitable for such activities.""",190,,['6d087ea57ab16ea87d0079654ee55833'],"[ 0.07110418 -0.03505098 -0.04198733 ... -0.00996276 -0.0296707
+ -0.00649459]"
+98fc2ee593184c5a839454db4eec7013,"""电动车群行特性展示""","""EVENT""","""电动车群行特性展示 is an event where electric scooter riders ride in a line on a wide street, showcasing the group riding features of electric scooters.""",191,,['6d087ea57ab16ea87d0079654ee55833'],"[ 0.02975712 -0.05088055 -0.02551303 ...  0.02755019 -0.02803523
+ -0.02239666]"
+80020a1da63042459e00266b2a605452,"""电动车多样性展示""","""EVENT""","""电动车多样性展示 is an event where different models of electric scooters are shown in motion, emphasizing the variety and practical use of these vehicles.""",192,,['6d087ea57ab16ea87d0079654ee55833'],"[ 0.01705357 -0.05643945 -0.04453183 ...  0.02472269 -0.04200866
+ -0.00505465]"
+31a7e680c4d54101afe4c8d52d246913,"""室内环境""","""GEO""","""The indoor environment is described as modern, clean, and minimalistic with white colors and multiple circular arch structures, creating a futuristic and technological feel.""",193,,['258e0c2b285c0e9d4863253404eb139a'],"[-0.03302768 -0.00693704  0.01124046 ... -0.03987877 -0.00722557
+  0.01079846]"
+351abba16e5c448994c6daf48121b14d,"""GOVEI""","""ORGANIZATION""","""GOVEI is a brand or company identified by a logo in a modern, futuristic-looking indoor environment designed for product display or visitor reception.""",194,,['0d43999f2280112b04122b52a07355c6'],"[ 0.0092364  -0.0142433  -0.01310357 ...  0.02164823  0.02872376
+  0.00866983]"
+50ea7d3b69614bcdbfbff7ddbfbf3d34,"""GOWEI电动""","""ORGANIZATION""",GOWEI电动是一家现代化的工厂，专注于生产电动两轮车和电动三轮车。该工厂拥有干净且维护良好的建筑和生产环境，其品牌标识醒目地展示在工厂建筑上。,195,,['0d43999f2280112b04122b52a07355c6' 'ed2d4df985b5657aa1082cef15dd4c7e'],"[ 0.02848393 -0.01262333  0.01153406 ...  0.04898665 -0.02724195
+  0.02349568]"
+004f40a5aeca48a1879db728eb12bcba,"""GOWEI TECHNOLOGY PARK""","""GEO""","""The GOWEI Technology Park is a large industrial building with a blue-gray multi-story structure, featuring a decorative rock garden and green lawn, located in a clear, sunny environment.""",196,,['e94400372994574bac5fd70495e024eb'],"[ 0.00463727 -0.01735348  0.04623041 ... -0.01569101  0.02255725
+  0.01294679]"
+4465efb7f6ed4dedad72a658184addd2,"""ELECTRIC TRICYCLE MANUFACTURING WORKSHOP""","""GEO""","""The Electric Tricycle Manufacturing Workshop is part of the GOWEI facilities, identified by a sign at the entrance and a restricted access gate.""",197,,['e94400372994574bac5fd70495e024eb'],"[ 0.02225885  0.02207809 -0.00821796 ...  0.03176147 -0.01668123
+ -0.01129081]"
+b0dd60e11dad4ff782623acf039b3948,"""JIANGSU GOWEI MOTORS CO. LTD""","""ORGANIZATION""","""Jiangsu GOWEI Motors Co. Ltd is a company specializing in the production of electric tricycles, with a modern four-story building as its main entrance, featuring a black stone monument with the company's name and a well-maintained landscape.""",198,,['f23295527d95dd9f58d0fd43f3d5bd4c'],"[ 0.02562193 -0.03371542 -0.00244677 ...  0.03505688  0.0031692
+  0.01686889]"
+db8c43fa4df947b09e5754d3b1393ead,"""江苏国威汽车有限公司""","""ORGANIZATION""","""江苏国威汽车有限公司 is the Chinese name for Jiangsu GOWEI Motors Co. Ltd, prominently displayed on a black stone monument at the entrance of the company's main building.""",199,,['f23295527d95dd9f58d0fd43f3d5bd4c'],"[-0.00859392 -0.03849198 -0.02305578 ...  0.02769759  0.0178009
+  0.00685871]"
+5dabc4cd05da425cb194a04482bf0c29,"""GOWEI电动三轮车制造车间""","""ORGANIZATION""","""GOWEI电动三轮车制造车间 is a part of Jiangsu GOWEI Motors Co. Ltd, specifically referring to the manufacturing facility where electric tricycles are produced.""",200,,['f23295527d95dd9f58d0fd43f3d5bd4c'],"[ 0.00506517 -0.0095796   0.02912538 ...  0.04837991 -0.00495396
+  0.03393372]"
+9d08f285a7be4c79b8f359c51d51db37,"""江苏""","""GEO""","""江苏 is a geographical location in China where Jiangsu GOWEI Motors Co. Ltd is headquartered.""",201,,['f23295527d95dd9f58d0fd43f3d5bd4c'],"[-0.03974422 -0.02072784  0.01655481 ... -0.0036897   0.01109288
+  0.01297339]"
+adffed660d154b519c1817e514e83096,"""GOWEI公司""","""ORGANIZATION""","""GOWEI公司是一家企业，涉及电动两轮车的生产和展示，拥有现代且庄严的展厅。""",202,,['b566c0df4c8a22d65481f6437433f6a3'],"[ 0.02889439 -0.02703938  0.00265429 ...  0.0324298  -0.02531532
+  0.00704355]"
+b7e9c9ef572c445a9574ca571e41fb96,"""GOWEI电动两轮车展厅""","""GEO""","The GOWEI电动两轮车展厅 is a modern, clean space dedicated to showcasing various models of electric motorcycles and scooters from the GOWEI company. This contemporary exhibition area is specifically designed to display GOWEI's electric two-wheel vehicles, featuring an organized and tidy environment that highlights the unique characteristics of their products.",203,,['688c3a7fd7828b111c09ff8fc827b216' 'b566c0df4c8a22d65481f6437433f6a3'],"[ 0.02657054 -0.04364835 -0.00242002 ...  0.01839499 -0.01822466
+  0.0260255 ]"
+dcb9f281cd6248c699e0ebb285a42a5e,"""展厅""","""GEO""","""展厅 is the location where GOWEI displays its electric two-wheel vehicles, featuring modern interior design and informative materials.""",204,,['00f59d36c4c378594bc3e6b592be352b'],"[-0.01557986 -0.02309094  0.02479962 ...  0.02743383 -0.03056642
+  0.0105428 ]"
+072cdee531b74513984f49d99a8d64a0,"""ELECTRIC TWO-WHEELED VEHICLES""","""EVENT""","""The event involves the display of various electric two-wheeled vehicles by GOWEI, showcasing different colors and models to attract customers.""",205,,['3857655169c6acf94d181018626b5da0'],"[ 0.02490781 -0.02593998 -0.01770981 ...  0.01517013 -0.0266462
+  0.01162546]"
+5ae335d9210a45fda3f92a9a028d6d9b,"""GOWEI品牌电动三轮车的展厅""","""GEO""","""The GOWEI brand electric three-wheel vehicle showroom displays a variety of electric three-wheelers, including cargo and passenger models.""",206,,['688c3a7fd7828b111c09ff8fc827b216'],"[ 0.01479864 -0.02438695  0.01124221 ...  0.05322754 -0.01859288
+  0.01482026]"
+5ac60a941a5b4934bdc43d2f87de601c,"""GOWEI电动三轮车展厅""","""GEO""","The GOWEI电动三轮车展厅 is a professional environment dedicated to the sale of electric tricycles, where a diverse range of models and accessories are showcased. This showroom features a modern and clean interior design, prominently displaying green and blue tricycles, making it an ideal location for customers to explore and purchase electric tricycles.",207,,['0c2855b2e8efdca22561f1635030cacf' '36ee14a1acc00e4a5e6711bb931fc4de'],"[ 0.00761576 -0.02753255  0.01362448 ...  0.03528421 -0.01410895
+  0.02119888]"
+d405c3154d0e48ce96fad4c28fe20590,"""GOWEI EEC认证电动三轮车""","""ORGANIZATION""","""GOWEI EEC认证电动三轮车 is a specific model of electric tricycle certified by EEC, known for its robust design and suitability for various road conditions.""",208,,['0c2855b2e8efdca22561f1635030cacf'],"[ 0.04346704 -0.01576684  0.00422948 ...  0.0784012  -0.02545082
+  0.03865145]"
+7923d8521c744bd9aab131c1aea91ffd,"""EEC认证""","""EVENT""","""EEC认证 is an event or certification process that validates the compliance and safety standards of the GOWEI electric tricycles.""",209,,['0c2855b2e8efdca22561f1635030cacf'],"[ 0.04230707  0.00300967 -0.01345919 ...  0.03719329 -0.01957915
+  0.00765292]"
+5bd156c87ec44e19ae6f8f62e6e50b9d,"""EEC认证电动三轮车""","""EVENT""","""EEC认证电动三轮车"" refers to the certification process and standard that the GOWEI brand electric tricycle has undergone to ensure compliance with European standards. This process indicates that the electric tricycles meet the necessary requirements to be considered compliant with European standards, thereby validating their safety and performance in the European market.",210,,['10ef4070081c8cb3686c07da94a36c4b' '20809ba38434d507d2e2a13e180ce90c'],"[ 0.03160657 -0.00911389  0.01128491 ...  0.06537315 -0.00657919
+  0.03462617]"
+c1a146d7fb16429ea6d0aa2a55ee597f,"""蓝色的电动三轮车""","""GEO""","""蓝色的电动三轮车 is a geographical reference to the specific color and type of electric tricycle, possibly indicating its market or usage area.""",211,,['20809ba38434d507d2e2a13e180ce90c'],"[ 0.0103248  -0.03063598 -0.04778263 ...  0.04671394 -0.01132225
+  0.01757413]"
+ede9350632084da5b0b577ff799ab14b,"""GOWEI FACTORY""","""GEO""","The GOWEI Factory serves as a dedicated location where customers have the opportunity to test drive GOWEI brand electric tricycles. This facility features a spacious outdoor area, complemented by the presence of factory buildings in the background, providing a suitable and authentic environment for experiencing the performance and features of the electric tricycles.",212,,['03e5f0427639b8c19d06f0dd48917656' '7acf66bdef0daa00bf1f5d1b6e38e05f'],"[ 0.02889752 -0.00056791  0.02189735 ...  0.02912173 -0.00815857
+  0.01453595]"
+ed559fb4ebde45518849ec803b350fa3,"""EEC CERTIFICATION""","""EVENT""","""EEC Certification refers to the process and status of GOWEI's electric tricycles being certified by the European Economic Community, indicating compliance with safety and quality standards.""",213,,['7acf66bdef0daa00bf1f5d1b6e38e05f'],"[ 0.04668989 -0.00219781  0.01221696 ...  0.04113157 -0.00706701
+  0.01910247]"
+f422035f8b78417f98e4d116971cf9f3,"""CUSTOMER""","""PERSON""","""A customer is described as testing a GOWEI electric tricycle at the GOWEI Factory, indicating interest and potential purchase.""",214,,['7acf66bdef0daa00bf1f5d1b6e38e05f'],"[ 0.01103187 -0.02571961 -0.02704772 ...  0.0318746  -0.01263131
+  0.01750818]"
+c79d686eba044c5586c706cdc096817d,"""客户""","""PERSON""","""客户 is a person who is participating in a test drive of an electric tricycle at the GOWEI factory, providing feedback on the vehicle's operation.""",215,,['f5e4e62d297a4100cd834cf7ddf597b1'],"[ 0.02227624 -0.01132261 -0.02200291 ...  0.01011314 -0.01441805
+  0.01165061]"
+0f70db1e598d463fbbcdd1e288bd9490,"""GOWEI工厂""","""GEO""","""GOWEI工厂 is the location where the test drives of GOWEI electric tricycles are conducted, offering a spacious environment for such activities.""",216,,['f5e4e62d297a4100cd834cf7ddf597b1'],"[ 0.02002238 -0.00979436  0.03166906 ...  0.01806475 -0.02141007
+  0.03147082]"
+b35c3d1a7daa4924b6bdb58bc69c354d,"""THREE MEN""","""PERSON""","""Three Men are participating in a test drive of an electric tricycle at the GOWEI factory, with one man operating the vehicle and the others observing or providing guidance.""",217,,['03e5f0427639b8c19d06f0dd48917656'],"[-0.00144542  0.0131442  -0.01370773 ...  0.02306822 -0.03290441
+  0.03846655]"
+a97e2ecd870944cfbe71c79bc0fcc752,"""ELECTRIC TRICYCLE TEST DRIVE""","""EVENT""","""Electric Tricycle Test Drive is the event where three men are testing the electric tricycle at the GOWEI factory, showcasing the product and customer experience.""",218,,['03e5f0427639b8c19d06f0dd48917656'],"[ 0.0156109  -0.00521598 -0.04762739 ...  0.03644788 -0.02547042
+  0.01309888]"
+3e1b063bbfa9423d84e50311296d2f3c,"""不锈钢电动三轮车""","""GEO""","""\u4e0d\u9508\u94a2\u7535\u52a8\u4e09\u8f6e\u8f66, manufactured by GOWEI, is a type of vehicle characterized by its stainless steel construction and electric motor. It is designed for use in both urban settings and industrial environments, making it suitable for the transportation of goods in a variety of contexts.""",219,,['52a2ffbfbd3e5ff6ce216246630833d8' 'c13cc646bcdb2b30c2b7dfa1c947c34d'],"[ 0.01534171 -0.0589683   0.00187104 ...  0.0523157  -0.04111489
+  0.03975722]"
+9a8ce816ee954bdabd01ea2081538009,"""城市的商业区或工业区""","""GEO""","""城市的商业区或工业区 describes the possible locations where the GOWEI electric tricycle could be commonly used, given its robust design and utility for transporting goods.""",220,,['52a2ffbfbd3e5ff6ce216246630833d8'],"[ 0.01392259 -0.02485559  0.02757339 ...  0.02448498 -0.00969763
+  0.03733279]"
+09f18f81442d4d6d93a90f0fac683f9b,"""THE WORKER""","""PERSON""","""The Worker is an individual who operates a red forklift to load packaged electric vehicles into a container, highlighting their crucial role in the logistics and shipping process.""",221,,['0f09df3d97e7d6ca0ffa3bc9a2211361' '305a7e063d6a693cc1391bdaa7f3b68e'],"[ 0.00756014  0.00634606 -0.05901111 ...  0.04963968 -0.00066118
+  0.01605218]"
+e02be3e37ca0454883a4c1fd859c24bb,"""THE MODERN BUILDING""","""GEO""","""The Modern Building is a location with a contemporary architectural style, seen in the background of the scene.""",222,,['0f09df3d97e7d6ca0ffa3bc9a2211361'],"[-2.22209338e-02 -9.18990746e-03  9.30564202e-05 ... -5.26496023e-02
+ -1.02408975e-02  1.58899706e-02]"
+6e0c81bef5364c988b21bf9b709d9861,"""THE CONTAINER LOADING EVENT""","""EVENT""","""The Container Loading Event is the process of loading electric vehicles into a large container for shipping.""",223,,['0f09df3d97e7d6ca0ffa3bc9a2211361'],"[ 0.01064969 -0.00140876  0.00083201 ...  0.03088892 -0.01256519
+  0.02857587]"
+1dbc51475cb04dafa4a8833a8378635e,"""THE OPERATOR""","""PERSON""","""The Operator is another individual using a red forklift to load large packages into a container, showing their involvement in the cargo handling process.""",224,,['305a7e063d6a693cc1391bdaa7f3b68e'],"[-0.0026484   0.01714665 -0.0236997  ... -0.01253307 -0.03476347
+  0.01354688]"
+c12b9ebd8b4e42b7896822a32e3fa6eb,"""CONCRETE GROUND""","""GEO""","""Concrete Ground refers to the type of surface where the loading activities are taking place, indicating an outdoor industrial or shipping area.""",225,,['305a7e063d6a693cc1391bdaa7f3b68e'],"[-0.0073911  -0.00018229  0.07686747 ...  0.00607217 -0.02451807
+  0.0373633 ]"
+27505f6ade4b4e5f9316ffe9c34821f7,"""DAYTIME""","""EVENT""","""Daytime is the time of day when the second image's activities are occurring, characterized by a blue sky and visible sunlight.""",226,,['305a7e063d6a693cc1391bdaa7f3b68e'],"[-0.0044601   0.00353488  0.01202475 ... -0.00555438  0.01786499
+  0.00683001]"
+0ee7db2c6bea4630ba9f0c25e8a967ad,"""EVENING""","""EVENT""","""Evening is the time of day when the first image's activities are taking place, noted by the slightly yellowish sky.""",227,,['305a7e063d6a693cc1391bdaa7f3b68e'],"[ 0.0077813  -0.01580597 -0.0017564  ... -0.00879319  0.02984435
+  0.00268023]"
+5a6c1d15424149f69052cd8d91fbff75,"""电动车装柜""","""EVENT""",电动装柜是指将GOWEI品牌的电动汽车装入大型集装箱进行运输的事件。这一过程涉及将特定品牌的电动汽车，即GOWEI电动汽车，装载到集装箱中，以便进行运输。,228,,['4909eecf93a9ecd5a5c7782b9879f57c' 'fa47b16ae91e24b30e20f5a08e790c08'],"[-0.00112108 -0.02972474 -0.01149015 ...  0.03927766 -0.0344602
+  0.0227138 ]"
+d005bf75c31d4848ad7041f39651e59c,"""叉车司机""","""PERSON""","叉车司机（""\u53c9\u8f66\u53f8\u673a""）是一位负责操作叉车的人员，其主要职责是确保货物，包括电动车辆，能够安全地装载到集装箱中。",229,,['6e43fd48d7ee2fb7798b805fee8ad531' 'fa47b16ae91e24b30e20f5a08e790c08'],"[ 0.0045943   0.00334728  0.00329623 ...  0.00784191 -0.02220821
+  0.01255289]"
+9b3eef8f3a3a45e6873838db95295b8a,"""集装箱""","""GEO""","""集装箱 is a geographical location where the electric vehicles are being stored and transported.""",230,,['fa47b16ae91e24b30e20f5a08e790c08'],"[-0.00437831 -0.05171026  0.00282161 ...  0.00560175 -0.03265662
+  0.01848488]"
+fdc954b454744820804d7798f3e0b5de,"""顾客""","""PERSON""","""The customer is participating in a test drive of an electric two-wheeler at a trade show, indicating interest in GOWEI's products.""",231,,['6e43fd48d7ee2fb7798b805fee8ad531'],"[ 0.00649215 -0.01407267 -0.03308117 ...  0.02068613 -0.02006222
+  0.01477977]"
+49c1383836934ec495c3b35769100a73,"""展会""","""EVENT""","""The trade show is an event where GOWEI showcases its electric two-wheelers and engages with potential customers.""",232,,['6e43fd48d7ee2fb7798b805fee8ad531'],"[ 0.01280697 -0.00468017 -0.00616766 ...  0.03562733 -0.02196172
+ -0.01360514]"
+859dedcc3736439a8a563419f16cb3d8,"""GOWEI电动两轮车""","""EVENT""","""The event of a customer test driving a GOWEI electric two-wheel vehicle indicates a promotional or sales activity by the company.""",233,,['70bd2d769eecd861a3b7ef394e62a4e6'],"[ 0.03142223 -0.01569851 -0.03215298 ...  0.01954125 -0.02513526
+  0.04316461]"
+6078b9980a6c4dcd9198d151b833ead7,"""ROCKET电动车正面照片""","""EVENT""","""The event of showcasing a ROCKET electric vehicle in a promotional photo indicates a marketing or advertising activity by the company.""",234,,['70bd2d769eecd861a3b7ef394e62a4e6'],"[ 0.02276442 -0.04789819 -0.07461154 ...  0.04669028  0.00378342
+  0.00075567]"
+f93cd6b8213e46dda67af7e5382e1bd2,"""F标志的工业建筑""","""GEO""","""F标志的工业建筑是一个具有特定标志的工业建筑，可能与ROCKET电动车或其他工业活动相关。""",235,,['daca8dcf96c3c103d1cc754741efa097'],"[ 0.01667944 -0.00706417 -0.04097789 ...  0.03246657 -0.02649492
+  0.00408692]"
+496f17c2f74244c681db1b23c7a39c0c,"""城市街头环境""","""GEO""",城市街头环境是指城市中的街道和周边的环境，这张图片展示了ROCKET电动车在这样的环境中的外观。城市街头环境作为背景，出现在展示ROCKET电动车的图像中，表明了该车辆所设定的城市背景。,236,,['0c5f6b5a79353e1aee8f1ffba4a51c93' '49c50de81462017170c1274c30617fed'],"[ 0.05155498 -0.04864493 -0.03189252 ...  0.00076991  0.00183967
+ -0.01840406]"
+da1684437ab04f23adac28ff70bd8429,"""ROCKET电动车仪表盘""","""ORGANIZATION""","""ROCKET电动车仪表盘是ROCKET电动车的一部分，采用白色设计，中央是一个未开启的黑色屏幕，两侧配有操作按钮，功能包括转向灯开关、远近光灯切换、行车模式、喇叭和电源控制。""",237,,['0c5f6b5a79353e1aee8f1ffba4a51c93'],"[ 0.02853729 -0.01045028 -0.06559557 ...  0.02680898 -0.00449161
+ -0.0025661 ]"
+4517768fc4e24bd2a790be0e08a7856e,"""ROCKET电动摩托车""","""GEO""","""ROCKET电动摩托车 is another electric vehicle model by ROCKET, characterized by its modern design and color scheme.""",238,,['6776d265d86bf60aea924de7e059fae6'],"[ 0.02435828 -0.04509604 -0.0630153  ...  0.04688338 -0.00470037
+  0.00835812]"
+545edff337344e518f68d1301d745455,"""电动摩托车""","""GEO""","""电动摩托车 refers to the geographical location or context where electric motorcycles are used or manufactured.""",239,,['c1e866a6e1fa1a08eb2118f983458f1d'],"[ 0.02064457 -0.02462001 -0.02280815 ...  0.03133456 -0.02532344
+  0.01390871]"
+9376ce8940e647a99e5e087514b88fa4,"""调速把""","""EVENT""","""\u8c03\u901f\u628a"" refers to the event or action of adjusting the speed control on an electric motorcycle, specifically the component involved in this process. This term is often mistakenly identified as referring to a person who operates the speed control handle, particularly on the ROCKET brand electric bike. However, it is important to clarify that ""\u8c03\u901f\u628a"" denotes the mechanism itself rather than the individual operating it.",240,,['40b33db8ac814f368e0bacd7a1713615' 'c1e866a6e1fa1a08eb2118f983458f1d'],"[ 0.02489382  0.00466169 -0.04887015 ... -0.01180601 -0.01600221
+  0.00989681]"
+b38a636e86984600bb4b57c2e2df9747,"""NYLON""","""GEO""","""Nylon is a type of tire material mentioned in the context of the ROCKET electric bike's tires, mistakenly identified as a geographical entity here.""",241,,['40b33db8ac814f368e0bacd7a1713615'],"[-0.01223286 -0.02105679 -0.05813413 ...  0.00701075 -0.01366376
+  0.00119681]"
+4bc7440b8f4b4e4cae65a5c49defa923,"""COMBINED ABS""","""EVENT""","Combined ABS is a safety feature integrated into the ROCKET electric bike, as indicated by the 'Combined ABS' marking on the brake disc. This feature signifies an advanced braking system designed to enhance the bike's safety mechanisms. It should be noted that the reference to Combined ABS being mistakenly identified as an event was an error, and it correctly pertains to a braking system feature on the ROCKET electric bike.",242,,['40b33db8ac814f368e0bacd7a1713615' '852953adfab1607897fb6d4606864e74'],"[ 0.05741355  0.0393066  -0.00968127 ...  0.01416835  0.02601056
+  0.0001838 ]"
+5d1b038ce8be4533b54dd79d6496de9b,"""NYLON TIRE""","""TECHNOLOGY""","""Nylon Tire is a component of the ROCKET electric bike, marked with 'Nylon' indicating the type of material used in its construction.""",243,,['852953adfab1607897fb6d4606864e74'],"[ 0.00465801 -0.02079553 -0.06445827 ...  0.02590919 -0.01642925
+ -0.00478586]"
+ac6e5a44e0c04a4fa93589376fde4c34,"""ROCKET FACTORY""","""GEO""","""ROCKET Factory is a large, modern building identified as the manufacturing site for ROCKET electric vehicles, featuring gray-white construction and large windows.""",244,,['852953adfab1607897fb6d4606864e74'],"[-0.02227883 -0.02780006 -0.00866974 ...  0.01280742  0.00297396
+  0.0159818 ]"
+40e4ef7dbc98473ba311bd837859a62a,"""ROCKET电动车工厂""","""ORGANIZATION""","""ROCKET电动车工厂是一家现代化的大型工厂，专注于电动车的生产，具有标志性的红色旗帜和整洁专业的外观。""",245,,['b93704a5828a78814609458a156754ba'],"[ 0.04334328 -0.03423068 -0.05191069 ...  0.05078135 -0.02137957
+ -0.00092063]"
+222f0ea8a5684123a7045986640ec844,"""电动版VESPA摩托车""","""ORGANIZATION""","The entity in question, ""\u7535\u52a8\u7248Vespa\u6469\u6258\u8f66,"" refers to the electric version of Vespa motorcycles. This brand showcases a distinctive electric scooter, characterized by its light blue color, complemented with a beige seat and metallic accents. It is not associated with a single person but rather represents a product line within the Vespa brand, highlighting advancements in electric mobility.",246,,['6efa0a0c6401f79fbec633fcc5c5a9b8' 'b93704a5828a78814609458a156754ba'],"[ 0.037311   -0.0389104  -0.0610271  ...  0.04328376 -0.00270992
+  0.02634012]"
+668cf1fdfd644d39acc6350b86117ea2,"""工作室环境""","""GEO""","""工作室环境 is a location described as a simple studio where the electric Vespa motorcycle is displayed.""",247,,['6efa0a0c6401f79fbec633fcc5c5a9b8'],"[-0.02256996  0.02984003 -0.03809254 ... -0.04042421 -0.01063002
+  0.00142372]"
+478e4c72d8fb46dd8cc9f0691c9878fd,"""VESPA电动车展示""","""EVENT""","""Vespa电动车展示 is an event where Vespa electric scooters are displayed, highlighting their features, design, and functionality. This event showcases the electric Vespa motorcycle, emphasizing its unique design and advanced features.""",248,,"['0d62a46042580f35466180ecb078523a' '6efa0a0c6401f79fbec633fcc5c5a9b8'
+ '980ce3a3a9770f5dbcb3239836f59b12' 'd1beb9b5f2429e854716d86b45f36291'
+ 'f53c68a4cb2b09b7fb9a70e204aa3189']","[ 0.00619402 -0.0380427  -0.04898107 ...  0.03685661 -0.01099329
+  0.00375046]"
+82b0446e7c9d4fc793f7b97f890e9049,"""摄影棚""","""GEO""","""摄影棚 is a location where the photo of the Vespa electric scooter was taken, providing a simple and clean background to focus on the vehicle.""",249,,['0d62a46042580f35466180ecb078523a'],"[-0.00511958 -0.04321234 -0.06545983 ...  0.01156604 -0.02828484
+ -0.00198342]"

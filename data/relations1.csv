@@ -1,0 +1,117 @@
+from,to,relation
+GOWEI工厂仓库,照片,HAS
+照片,电动三轮车,HAS
+电动三轮车,全新的,IS
+电动三轮车,蓝色,HAS
+电动三轮车,绿色,HAS
+电动三轮车,品牌标识,HAS
+品牌标识,GOWEI,IS
+GOWEI,产品,HAS
+GOWEI工厂仓库,GOWEI 电动三轮车工厂仓库,IS
+GOWEI电动三轮车,生产车间,Part-Of
+工作人员,忙碌的场景,Interaction
+车间,设施,HAS
+车间,管道,HAS
+车间,电线,HAS
+车间,工业风扇,HAS
+车间,传送带,HAS
+传送带,电动三轮车,HAS
+车间,高效组织性,Cause-Effect
+车间,运作流程,Cause-Effect
+GOWEI 电动三轮车生产车间,GOWEI电动三轮车,Part-Of
+男士,蓝色的GOWEI电动三轮车,Interaction
+蓝色的GOWEI电动三轮车,砾石和泥土混合的道路,Part-Of
+蓝色的GOWEI电动三轮车,乡村环境,Part-Of
+狗,蓝色的GOWEI电动三轮车,Interaction
+美国当地客户,蓝色的GOWEI电动三轮车,Interaction
+户外活动,测试新技术,Similar To
+男士,蓝色的GOWEI电动三轮车,Interaction
+蓝色的GOWEI电动三轮车,货物,HAS
+男士,方向盘,Interaction
+蓝色的GOWEI电动三轮车,多云的天空,Part-Of
+蓝色的GOWEI电动三轮车,低矮的建筑,Part-Of
+蓝色的GOWEI电动三轮车,电动车,Similar To
+男士,试驾,Interaction
+试驾,美国当地客户,Interaction
+蓝色的GOWEI电动三轮车,户外,Part-Of
+使用者,三轮车,Interaction
+三轮车,农场,Part-Of
+使用者,物品,Interaction
+房屋,农场,Part-Of
+围栏,农场,Part-Of
+天气,晴朗,IS
+美国用户,GOWEI电动三轮车,HAS
+电动三轮车,灯光系统,HAS
+电动三轮车,前面板,HAS
+电动三轮车,品牌标识,HAS
+电动三轮车,蓝色,IS
+头灯,现代设计,IS
+头灯,功能性,IS
+GOWEI EEC状态电动三轮车,电动三轮车,IS
+送外卖员,工作服,IS
+送外卖员,外卖电动车,Part-Of
+外卖电动车,GOWEI 外卖车,Similar To
+湖面,建筑,Interaction
+GOWEI 外卖车,测评,HAS
+公司外景,现代化工业建筑,IS
+公司外景,企业规模,HAS
+公司外景,企业形象,HAS
+电动车烤漆工艺流程,视频,IS
+电动三轮车,乡村道路,IS
+乡村道路,草丛,HAS
+天气,晴朗,IS
+路面,平坦,IS
+GOWEI 休闲电动三轮车,测评,Part-Of
+红色叉车,卡车,Interaction
+卡车,货物,HAS
+货物,箱子,Part-Of
+卡车,物流区域,Part-Of
+卡车,平坦广场,Part-Of
+集装箱,物流区域,Part-Of
+装货场景,货运,Similar To
+装货场景,物流操作,Similar To
+GOWEI 装柜,装货场景,IS
+工人,叉车,Interaction
+叉车,货物,HAS
+叉车,卡车,Interaction
+GOWEI,装柜,Part-Of
+蓝色集装箱,仓库区域,Part-Of
+GOWEI,仓库区域,HAS
+远景,背景,Similar To
+三轮车,仪表盘,Part-Of
+仪表盘,速度,HAS
+仪表盘,电量显示,HAS
+仪表盘,功能指示,HAS
+功能指示,驾驶模式,HAS
+GOWEI休闲电动三轮车,三轮车,IS
+男性工人,大型机器,Interaction
+大型机器,蓝色,IS
+工具,零件,Part-Of
+车间,光线充足,HAS
+车间,大型吊扇,Part-Of
+大型吊扇,空气流通,Cause-Effect
+GOWEI电动三轮车生产流水线,男性工人,Interaction
+红色的GOWEI品牌电动三轮车,驾驶区,Part-Of
+红色的GOWEI品牌电动三轮车,方向手柄,HAS
+方向手柄,黑色的握把,HAS
+方向手柄,中央的数字仪表显示屏,HAS
+红色的GOWEI品牌电动三轮车,黑色货架,HAS
+红色的GOWEI品牌电动三轮车,老年人,Suitable-For
+红色的GOWEI品牌电动三轮车,女性,Suitable-For
+红色的GOWEI品牌电动三轮车,外观好看,HAS
+红色的GOWEI品牌电动三轮车,质量和性能,HAS
+GOWEI3.0-8真空轮胎休闲电动三轮车,红色的GOWEI品牌电动三轮车,Similar To
+电动三轮车,展示厅,Part-Of
+浅蓝色三轮车,全封闭的驾驶舱,HAS
+红色三轮车,开放式座位设计,HAS
+白色三轮车,开放式座位设计,HAS
+电动三轮车,便捷的城市出行,Similar To
+电动三轮车,休闲出行,Similar To
+植物,自然的氛围,Cause-Effect
+电动三轮车,多样性,HAS
+电动三轮车,适用性,HAS
+GOWEI60v20ah铅酸电池休闲电动三轮车,电动三轮车,IS
+女主持人,电动车,Interaction
+女主持人,自信,HAS
+女主持人,专业,HAS
+电动车,GOWEI CP900电动两轮车,IS

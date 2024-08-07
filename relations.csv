@@ -1,105 +1,862 @@
 from,to,relation,source
-ROCKET,ROCKET电动车,HAS,ROCKET
-ROCKET电动车,电动车,HAS,ROCKET
-ROCKET电动车,白色,HAS,ROCKET
-ROCKET电动车,深棕色的座垫,HAS,ROCKET
-ROCKET电动车,宽阔的道路,HAS,ROCKET
-ROCKET电动车,车辆,HAS,ROCKET
-ROCKET电动车,绿色植被,HAS,ROCKET
-ROCKET电动车,环境,HAS,ROCKET
-ROCKET电动车,轮胎细节,HAS,ROCKET
-ROCKET电动车,前轮,HAS,ROCKET
-ROCKET电动车,合金轮毂设计,HAS,ROCKET
-ROCKET,ROCKET电动车,HAS,ROCKET
-ROCKET电动车,照片,HAS,ROCKET
-ROCKET电动车,颜色,HAS,ROCKET
-ROCKET电动车,设计,HAS,ROCKET
-ROCKET电动车,座位,HAS,ROCKET
-ROCKET电动车,棕色座垫,HAS,ROCKET
-ROCKET电动车,实用性,HAS,ROCKET
-ROCKET电动车,时尚美观,HAS,ROCKET
-ROCKET,电动车,HAS,ROCKET
-电动车,仪表盘,HAS,ROCKET
-仪表盘,白色设计,HAS,ROCKET
-仪表盘,黑色屏幕,HAS,ROCKET
-仪表盘,操作按钮,HAS,ROCKET
-操作按钮,转向灯开关,HAS,ROCKET
-操作按钮,远近光灯切换,HAS,ROCKET
-操作按钮,行车模式,HAS,ROCKET
-操作按钮,喇叭,HAS,ROCKET
-操作按钮,电源,HAS,ROCKET
-仪表盘,功能分区,HAS,ROCKET
-ROCKET电动车仪表盘,仪表盘,HAS,ROCKET
-ROCKET,ROCKET品牌电动摩托车,HAS,ROCKET
-ROCKET品牌电动摩托车,照片,HAS,ROCKET
-ROCKET品牌电动摩托车,现代设计,HAS,ROCKET
-ROCKET品牌电动摩托车,白色,HAS,ROCKET
-ROCKET品牌电动摩托车,棕色座椅,HAS,ROCKET
-ROCKET品牌电动摩托车,前灯,HAS,ROCKET
-ROCKET品牌电动摩托车,后视镜,HAS,ROCKET
-ROCKET品牌电动摩托车,把手,HAS,ROCKET
-ROCKET品牌电动摩托车,车轮,HAS,ROCKET
-ROCKET品牌电动摩托车,外观特征,HAS,ROCKET
-ROCKET,ROCKET品牌电动车,HAS,ROCKET
-ROCKET品牌电动车,后轮,HAS,ROCKET
-ROCKET品牌电动车,电机部分,HAS,ROCKET
-ROCKET品牌电动车,轮胎,HAS,ROCKET
-ROCKET品牌电动车,刹车盘,HAS,ROCKET
-ROCKET品牌电动车,减震器,HAS,ROCKET
-ROCKET品牌电动车,电动机,HAS,ROCKET
-轮胎,Nylon,HAS,ROCKET
-刹车盘,Combined ABS,HAS,ROCKET
-ROCKET品牌电动车,联合防抱死制动系统,HAS,ROCKET
-ROCKET品牌电动车,机械细节,HAS,ROCKET
-ROCKET品牌电动车,设计,HAS,ROCKET
-ROCKET品牌电动车,功能性,HAS,ROCKET
-ROCKET,ROCKET品牌电动车,HAS,ROCKET
-ROCKET品牌电动车,前轮,HAS,ROCKET
-ROCKET品牌电动车,车身,HAS,ROCKET
-前轮,多辐条轮圈,HAS,ROCKET
-前轮,碟刹系统,HAS,ROCKET
-轮胎,尺寸信息,HAS,ROCKET
-轮胎,用途说明,HAS,ROCKET
-轮胎,真空轮胎,HAS,ROCKET
-ROCKET品牌电动车,颜色,HAS,ROCKET
-颜色,白色,HAS,ROCKET
-ROCKET品牌电动车,车身线条,HAS,ROCKET
-ROCKET品牌电动车,城市街头环境,HAS,ROCKET
-ROCKET,ROCKET电动车,HAS,ROCKET
-ROCKET电动车,正面照片,HAS,ROCKET
-ROCKET电动车,现代化的白色设计,HAS,ROCKET
-ROCKET电动车,前部设计,HAS,ROCKET
-ROCKET电动车,流线型,HAS,ROCKET
-ROCKET电动车,前灯,HAS,ROCKET
-ROCKET电动车,侧面后视镜,HAS,ROCKET
-ROCKET电动车,锋利且具有未来感的造型,HAS,ROCKET
-ROCKET电动车,时尚,HAS,ROCKET
-ROCKET电动车,实用,HAS,ROCKET
-ROCKET电动车,图片背景,HAS,ROCKET
-图片背景,工业建筑,HAS,ROCKET
-工业建筑,F标志,HAS,ROCKET
-ROCKET,电动车,HAS,ROCKET
-电动车,照片,HAS,ROCKET
-电动车,白色,HAS,ROCKET
-电动车,棕色座椅,HAS,ROCKET
-电动车,防抱死制动系统,HAS,ROCKET
-电动车,车体造型,HAS,ROCKET
-电动车,整体设计,HAS,ROCKET
-电动车,前侧面视图,HAS,ROCKET
-ROCKET,电动车,HAS,ROCKET
-电动车,调速把,HAS,ROCKET
-调速把,黑色的握把,HAS,ROCKET
-调速把,银色的端部,HAS,ROCKET
-电动车,控制按钮,HAS,ROCKET
-控制按钮,模式切换,HAS,ROCKET
-控制按钮,启动按钮,HAS,ROCKET
-调速把,部件细节,HAS,ROCKET
-图片,ROCKET电动车调速把,HAS,ROCKET
-ROCKET,大型的现代化工厂建筑,HAS,ROCKET
-ROCKET,红色旗帜,HAS,ROCKET
-大型的现代化工厂建筑,建筑主体,HAS,ROCKET
-大型的现代化工厂建筑,窗户,HAS,ROCKET
-大型的现代化工厂建筑,柱状的装饰门廊,HAS,ROCKET
-大型的现代化工厂建筑,整洁和专业的感觉,HAS,ROCKET
-电动车,ROCKET,HAS,ROCKET
-白色小型货车,宣传和服务的信息,HAS,ROCKET
+Vespa电动车,电动车,HAS,GOWEI
+电动车,储物空间,HAS,GOWEI
+储物空间,安全头盔,HAS,GOWEI
+电动车,实用性,HAS,GOWEI
+GOWEI电动三轮车,三轮车,HAS,GOWEI
+GOWEI电动三轮车,车头,HAS,GOWEI
+GOWEI电动三轮车,座位,HAS,GOWEI
+GOWEI电动三轮车,设计细节,HAS,GOWEI
+GOWEI电动三轮车,结构,HAS,GOWEI
+GOWEI电动三轮车,美国用户评价,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,后轮减震器,HAS,GOWEI
+GOWEI CP900电动两轮车,轮辋,HAS,GOWEI
+GOWEI CP900电动两轮车,X型的强化设计,HAS,GOWEI
+GOWEI CP900电动两轮车,减震功能,HAS,GOWEI
+GOWEI CP900电动两轮车,稳定性,HAS,GOWEI
+GOWEI CP900电动两轮车,耐用性,HAS,GOWEI
+GOWEI工厂仓库,电动三轮车,HAS,GOWEI
+GOWEI工厂仓库,照片,HAS,GOWEI
+GOWEI工厂仓库,GOWEI 电动三轮车工厂仓库,HAS,GOWEI
+GOWEI,品牌,HAS,GOWEI
+GOWEI,产品,HAS,GOWEI
+电动三轮车,品牌标识,HAS,GOWEI
+电动三轮车,全新的,HAS,GOWEI
+电动三轮车,鲜艳的,HAS,GOWEI
+电动三轮车,蓝色,HAS,GOWEI
+电动三轮车,绿色,HAS,GOWEI
+三轜车的尾部,品牌标识,HAS,GOWEI
+GOWEI 休闲电动三轮车,电动三轮车,HAS,GOWEI
+GOWEI电动三轮车,三轮车,HAS,GOWEI
+GOWEI电动三轮车,使用环境,HAS,GOWEI
+GOWEI电动三轮车,保护装备,HAS,GOWEI
+GOWEI电动三轮车,美国用户评价,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,底盘,HAS,GOWEI
+GOWEI CP900电动两轮车,悬挂系统,HAS,GOWEI
+GOWEI CP900电动两轮车,技术细节,HAS,GOWEI
+GOWEI CP900电动两轮车,做工精良,HAS,GOWEI
+GOWEI CP900电动两轮车,后轮,HAS,GOWEI
+GOWEI CP900电动两轮车,减震设计,HAS,GOWEI
+GOWEI CP900电动两轮车,轮辋,HAS,GOWEI
+GOWEI CP900电动两轮车,高性能的减震,HAS,GOWEI
+GOWEI CP900电动两轮车,支撑能力,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI 装柜,大型卡车,HAS,GOWEI
+GOWEI 装柜,集装箱,HAS,GOWEI
+集装箱,MAERSK,HAS,GOWEI
+集装箱,海运货物,HAS,GOWEI
+GOWEI 装柜,仓库,HAS,GOWEI
+GOWEI 装柜,装货卡车,HAS,GOWEI
+GOWEI 装柜,活动,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,尾部,HAS,GOWEI
+GOWEI CP900电动两轮车,后轮,HAS,GOWEI
+GOWEI CP900电动两轮车,传动系统,HAS,GOWEI
+GOWEI CP900电动两轮车,尾架,HAS,GOWEI
+GOWEI CP900电动两轮车,后减震装置,HAS,GOWEI
+GOWEI,外卖车,HAS,GOWEI
+外卖车,配送服务,HAS,GOWEI
+GOWEI,GOWEI 外卖车测评,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+GOWEI,工作人员,HAS,GOWEI
+GOWEI,车间,HAS,GOWEI
+GOWEI,设施,HAS,GOWEI
+GOWEI,管道,HAS,GOWEI
+GOWEI,电线,HAS,GOWEI
+GOWEI,工业风扇,HAS,GOWEI
+GOWEI,传送带,HAS,GOWEI
+GOWEI,电动三轮车,HAS,GOWEI
+GOWEI,工厂,HAS,GOWEI
+GOWEI,高效组织性,HAS,GOWEI
+GOWEI,运作流程,HAS,GOWEI
+GOWEI,GOWEI 电动三轮车生产车间,HAS,GOWEI
+GOWEI,整车远景,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,车身贴纸,HAS,GOWEI
+GOWEI,整体设计,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,动态角度,HAS,GOWEI
+GOWEI CP900电动两轮车,车辆,HAS,GOWEI
+GOWEI CP900电动两轮车,速度感,HAS,GOWEI
+GOWEI CP900电动两轮车,流畅的驾驶体验,HAS,GOWEI
+GOWEI休闲电动三轮车,红色款式的三轮车,HAS,GOWEI
+GOWEI休闲电动三轮车,鲜艳的颜色,HAS,GOWEI
+GOWEI休闲电动三轮车,明显的外观设计,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI电动三轮车,三轮车,HAS,GOWEI
+GOWEI电动三轮车,个人交通工具,HAS,GOWEI
+美国用户,GOWEI电动三轮车,HAS,GOWEI
+用户评价,GOWEI电动三轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+电动车,特点,HAS,GOWEI
+电动车,操作方法,HAS,GOWEI
+电动车,营销展示,HAS,GOWEI
+GOWEI CP900电动两轮车,电动摩托,HAS,GOWEI
+电动摩托,72V60AH电池,HAS,GOWEI
+GOWEI 装柜,工人,HAS,GOWEI
+GOWEI 装柜,打印机,HAS,GOWEI
+GOWEI 装柜,大型机械设备,HAS,GOWEI
+GOWEI电动三轮车,男士,HAS,GOWEI
+GOWEI电动三轮车,道路,HAS,GOWEI
+GOWEI电动三轮车,环境,HAS,GOWEI
+GOWEI电动三轮车,车辆,HAS,GOWEI
+GOWEI电动三轮车,棚子,HAS,GOWEI
+GOWEI电动三轮车,狗,HAS,GOWEI
+GOWEI电动三轮车,户外活动,HAS,GOWEI
+GOWEI电动三轮车,测试新技术,HAS,GOWEI
+GOWEI电动三轮车,美国当地客户,HAS,GOWEI
+GOWEI CP900电动两轮车,车辆,HAS,GOWEI
+GOWEI CP900电动两轮车,车头设计,HAS,GOWEI
+GOWEI CP900电动两轮车,美观造型,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车头部,HAS,GOWEI
+GOWEI CP900电动两轮车,车型标志,HAS,GOWEI
+GOWEI CP900电动两轮车,设计细节,HAS,GOWEI
+GOWEI CP900电动两轮车,品牌识别,HAS,GOWEI
+GOWEI CP900电动两轮车,现代感,HAS,GOWEI
+GOWEI电动三轮车,三轮车,HAS,GOWEI
+三轮车,羊,HAS,GOWEI
+三轮车,羊群,HAS,GOWEI
+美国用户,GOWEI电动三轮车,HAS,GOWEI
+GOWEI 装柜,操作人员,HAS,GOWEI
+GOWEI 装柜,叉车,HAS,GOWEI
+GOWEI 装柜,货物箱,HAS,GOWEI
+货物箱,标签'FORTE',HAS,GOWEI
+GOWEI 装柜,卡车,HAS,GOWEI
+操作人员,工作服,HAS,GOWEI
+GOWEI,蓝色的GOWEI电动三轮车,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,美国当地客户,HAS,GOWEI
+蓝色的GOWEI电动三轮车,货物,HAS,GOWEI
+蓝色的GOWEI电动三轮车,方向盘,HAS,GOWEI
+GOWEI,工人,HAS,GOWEI
+GOWEI,大型机械,HAS,GOWEI
+GOWEI,操作,HAS,GOWEI
+GOWEI,维护工作,HAS,GOWEI
+GOWEI,装柜,HAS,GOWEI
+GOWEI CP900电动两轮车,座椅,HAS,GOWEI
+GOWEI CP900电动两轮车,舒适设计,HAS,GOWEI
+GOWEI CP900电动两轮车,材质,HAS,GOWEI
+GOWEI CP900电动两轮车,乘坐的舒适性,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,前轮,HAS,GOWEI
+电动车,刹车系统,HAS,GOWEI
+电动车,机械部件,HAS,GOWEI
+机械部件,质量,HAS,GOWEI
+机械部件,设计,HAS,GOWEI
+电动车,电动车部件,HAS,GOWEI
+电动车,工艺流程,HAS,GOWEI
+电动车,视频,HAS,GOWEI
+烤漆,电动车部件,HAS,GOWEI
+质量,电动车部件,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+三轮车,座椅,HAS,GOWEI
+座椅,设计,HAS,GOWEI
+座椅,安全结构,HAS,GOWEI
+三轮车,乘客,HAS,GOWEI
+乘客,舒适,HAS,GOWEI
+乘客,安全,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+电动车,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 外卖车,外卖车,HAS,GOWEI
+GOWEI 外卖车,动力装置,HAS,GOWEI
+GOWEI 外卖车,品牌标志,HAS,GOWEI
+GOWEI 外卖车,加速性能,HAS,GOWEI
+品牌标志,GO吉,HAS,GOWEI
+GOWEI,外卖车,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,测评,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,车辆前部设计,HAS,GOWEI
+GOWEI CP900电动两轮车,地面的接触情况,HAS,GOWEI
+GOWEI CP900电动两轮车,稳定性,HAS,GOWEI
+GOWEI CP900电动两轮车,设计美感,HAS,GOWEI
+Vespa电动车,白色的Vespa电动车,HAS,GOWEI
+Vespa,Vespa电动车,HAS,GOWEI
+Vespa电动车应用,Vespa电动车,HAS,GOWEI
+GOWEI EEC状态电动三轮车,电动三轮车,HAS,GOWEI
+GOWEI EEC状态电动三轮车,灯光系统,HAS,GOWEI
+GOWEI EEC状态电动三轮车,前面板,HAS,GOWEI
+GOWEI EEC状态电动三轮车,品牌标识,HAS,GOWEI
+GOWEI EEC状态电动三轮车,蓝色,HAS,GOWEI
+GOWEI EEC状态电动三轮车,头灯,HAS,GOWEI
+GOWEI EEC状态电动三轮车,现代设计,HAS,GOWEI
+GOWEI EEC状态电动三轮车,功能性,HAS,GOWEI
+GOWEI 外卖车测评,外卖车,HAS,GOWEI
+外卖车,电机部分,HAS,GOWEI
+外卖车,车架,HAS,GOWEI
+外卖车,现代化技术,HAS,GOWEI
+外卖车,结实的设计,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+外卖员,装备,HAS,GOWEI
+外卖员,衣物,HAS,GOWEI
+GOWEI 外卖车,外卖电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动摩托车,HAS,GOWEI
+GOWEI CP900电动两轮车,前轮,HAS,GOWEI
+GOWEI CP900电动两轮车,刹车系统,HAS,GOWEI
+GOWEI CP900电动两轮车,轮胎规格,HAS,GOWEI
+轮胎规格,110/70-12,HAS,GOWEI
+GOWEI 外卖车测评,全景的外卖车,HAS,GOWEI
+GOWEI 外卖车测评,前灯设计,HAS,GOWEI
+GOWEI 外卖车测评,整体造型,HAS,GOWEI
+GOWEI 外卖车测评,外卖车,HAS,GOWEI
+GOWEI 外卖车测评,设计美观,HAS,GOWEI
+GOWEI 外卖车测评,实用性,HAS,GOWEI
+GOWEI,重载的卡车,HAS,GOWEI
+GOWEI,红色货柜,HAS,GOWEI
+GOWEI,标识,HAS,GOWEI
+GOWEI,GOWEI 装柜,HAS,GOWEI
+GOWEI CP900电动两轮车,摩托车把手,HAS,GOWEI
+GOWEI CP900电动两轮车,操控系统,HAS,GOWEI
+操控系统,启动按钮,HAS,GOWEI
+操控系统,停止按钮,HAS,GOWEI
+操控系统,操控的简单性,HAS,GOWEI
+操控系统,操控的直观性,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+公司外景,现代化工业建筑,HAS,GOWEI
+公司外景,企业规模,HAS,GOWEI
+公司外景,企业形象,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI 外卖车,外卖车,HAS,GOWEI
+GOWEI 外卖车,侧面全视图,HAS,GOWEI
+GOWEI 外卖车,整体设计,HAS,GOWEI
+GOWEI 外卖车,储物空间,HAS,GOWEI
+GOWEI CP900电动两轮车,电动两轮车,HAS,GOWEI
+电动两轮车,存储箱,HAS,GOWEI
+存储箱,通电按钮,HAS,GOWEI
+GOWEI 外卖车,外卖员,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,实用载物功能,HAS,GOWEI
+外卖员,塑料袋,HAS,GOWEI
+塑料袋,商品,HAS,GOWEI
+钢架,塑料袋,HAS,GOWEI
+GOWEI EEC状态电动三轮车,驾驶室,HAS,GOWEI
+GOWEI EEC状态电动三轮车,仪表盘,HAS,GOWEI
+GOWEI EEC状态电动三轮车,方向盘,HAS,GOWEI
+GOWEI EEC状态电动三轮车,坐椅,HAS,GOWEI
+GOWEI EEC状态电动三轮车,内饰细节,HAS,GOWEI
+GOWEI EEC状态电动三轮车,内部布局,HAS,GOWEI
+GOWEI EEC状态电动三轮车,功能性,HAS,GOWEI
+GOWEI EEC状态电动三轮车,操作的便利,HAS,GOWEI
+GOWEI 外卖车测评,外卖车型,HAS,GOWEI
+外卖车型,高效率,HAS,GOWEI
+外卖车型,快速响应,HAS,GOWEI
+视频,网速快,HAS,GOWEI
+GOWEI,GOWEI 休闲电动三轮车,HAS,GOWEI
+GOWEI 休闲电动三轮车,电动三轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,正面设计,HAS,GOWEI
+GOWEI CP900电动两轮车,侧面设计,HAS,GOWEI
+GOWEI CP900电动两轮车,USB充电端口,HAS,GOWEI
+GOWEI CP900电动两轮车,便利功能,HAS,GOWEI
+工厂,材料,HAS,GOWEI
+工厂,贮存区,HAS,GOWEI
+工厂,系统性,HAS,GOWEI
+工厂,条理性,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,仪表盘,HAS,GOWEI
+仪表盘,当前速度,HAS,GOWEI
+当前速度,24公里/小时,HAS,GOWEI
+仪表盘,信息,HAS,GOWEI
+信息,清晰易读,HAS,GOWEI
+电动车部件,电动车烤漆工艺流程,HAS,GOWEI
+工人,标记,HAS,GOWEI
+视频,电动车烤漆工艺流程,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+电动车,车辆,HAS,GOWEI
+电动车,女主角,HAS,GOWEI
+电动车,协调,HAS,GOWEI
+电动车,时尚外观,HAS,GOWEI
+电动车部件,电动车烤漆工艺流程,HAS,GOWEI
+视频,电动车烤漆工艺流程,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI 装柜,装货场景,HAS,GOWEI
+GOWEI 装柜,红色叉车,HAS,GOWEI
+GOWEI 装柜,卡车,HAS,GOWEI
+GOWEI 装柜,货物,HAS,GOWEI
+GOWEI 装柜,物流区域,HAS,GOWEI
+GOWEI 装柜,工业区域,HAS,GOWEI
+GOWEI 装柜,广场,HAS,GOWEI
+GOWEI 装柜,集装箱,HAS,GOWEI
+GOWEI 装柜,货运,HAS,GOWEI
+GOWEI 装柜,物流操作,HAS,GOWEI
+GOWEI电动三轮车生产流水线,电动三轮车,HAS,GOWEI
+GOWEI电动三轮车生产流水线,零部件,HAS,GOWEI
+GOWEI电动三轮车生产流水线,车轮,HAS,GOWEI
+GOWEI电动三轮车生产流水线,橙色的电缆,HAS,GOWEI
+GOWEI电动三轮车生产流水线,配件,HAS,GOWEI
+GOWEI电动三轮车生产流水线,仓库,HAS,GOWEI
+GOWEI电动三轮车生产流水线,货架,HAS,GOWEI
+GOWEI电动三轮车生产流水线,地面,HAS,GOWEI
+GOWEI电动三轮车生产流水线,现代化的工业环境,HAS,GOWEI
+完成品,最终检验过程,HAS,GOWEI
+员工,质量检查,HAS,GOWEI
+产品,标准,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,安全装备,HAS,GOWEI
+GOWEI CP900电动两轮车,电动摩托车,HAS,GOWEI
+电动摩托车,后轮,HAS,GOWEI
+电动摩托车,刹车系统,HAS,GOWEI
+电动摩托车,轮胎规格,HAS,GOWEI
+轮胎规格,120/70-12j,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+GOWEI休闲电动三轮车,车身结构,HAS,GOWEI
+GOWEI休闲电动三轮车,入门设计,HAS,GOWEI
+GOWEI,工人,HAS,GOWEI
+GOWEI,叉车,HAS,GOWEI
+GOWEI,货物,HAS,GOWEI
+GOWEI,卡车,HAS,GOWEI
+GOWEI,装柜,HAS,GOWEI
+GOWEI 装柜,蓝色集装箱,HAS,GOWEI
+GOWEI 装柜,仓库区域,HAS,GOWEI
+员工,零部件,HAS,GOWEI
+零部件,车辆部件原材料,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+电动车,用户,HAS,GOWEI
+电动车,日常生活,HAS,GOWEI
+电动车,便携性,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+电动车,设计,HAS,GOWEI
+设计,现代感,HAS,GOWEI
+设计,实用性,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+大型卡车,货物,HAS,GOWEI
+大型卡车,停车场,HAS,GOWEI
+大型卡车,装卸区,HAS,GOWEI
+GOWEI,装柜,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+三轮车,仪表盘,HAS,GOWEI
+仪表盘,速度,HAS,GOWEI
+仪表盘,电量显示,HAS,GOWEI
+仪表盘,功能指示,HAS,GOWEI
+功能指示,驾驶模式,HAS,GOWEI
+GOWEI CP900电动两轮车,性能,HAS,GOWEI
+GOWEI CP900电动两轮车,稳定性,HAS,GOWEI
+GOWEI,叉车,HAS,GOWEI
+GOWEI,箱子,HAS,GOWEI
+GOWEI,FORTE,HAS,GOWEI
+GOWEI,叉子,HAS,GOWEI
+GOWEI,装柜,HAS,GOWEI
+电动车,烤漆工艺流程,HAS,GOWEI
+烤漆工艺流程,视频,HAS,GOWEI
+GOWEI电动三轮车生产流水线,大型机器,HAS,GOWEI
+GOWEI电动三轮车生产流水线,工具,HAS,GOWEI
+GOWEI电动三轮车生产流水线,零件,HAS,GOWEI
+GOWEI电动三轮车生产流水线,工作环境,HAS,GOWEI
+GOWEI电动三轮车生产流水线,车间,HAS,GOWEI
+GOWEI电动三轮车生产流水线,吊扇,HAS,GOWEI
+大型车间,电动车部件,HAS,GOWEI
+大型车间,电动车,HAS,GOWEI
+电动车,烤漆工艺流程,HAS,GOWEI
+烤漆工艺流程,视频,HAS,GOWEI
+GOWEI电动,现代化工厂大楼,HAS,GOWEI
+现代化工厂大楼,大楼,HAS,GOWEI
+现代化工厂大楼,通道,HAS,GOWEI
+现代化工厂大楼,包装箱,HAS,GOWEI
+包装箱,货物,HAS,GOWEI
+GOWEI电动两轮车和电动三轮车生产工厂,电动两轮车,HAS,GOWEI
+GOWEI电动两轮车和电动三轮车生产工厂,电动三轮车,HAS,GOWEI
+GOWEI,GOWEI CP900,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 装柜,机动托盘,HAS,GOWEI
+GOWEI 装柜,重型货物,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+GOWEI休闲电动三轮车,驾驶舱区域,HAS,GOWEI
+GOWEI休闲电动三轮车,舒适性,HAS,GOWEI
+GOWEI休闲电动三轮车,操作便利性,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+电动车,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+三轮车,饲料桶,HAS,GOWEI
+农场动物,鹅,HAS,GOWEI
+农场动物,羊,HAS,GOWEI
+GOWEI科技园,大型的工业建筑,HAS,GOWEI
+大型的工业建筑,蓝灰色的多层建筑,HAS,GOWEI
+大型的工业建筑,岩石花园,HAS,GOWEI
+大型的工业建筑,绿色的草坪,HAS,GOWEI
+大型的工业建筑,生产电动三轮车的工厂,HAS,GOWEI
+生产电动三轮车的工厂,GOWEI电动三轮车制造车间,HAS,GOWEI
+大型的工业建筑,放行标志,HAS,GOWEI
+大型的工业建筑,栅栏,HAS,GOWEI
+大型的工业建筑,受限的区域,HAS,GOWEI
+GOWEI,红色的GOWEI品牌电动三轮车,HAS,GOWEI
+GOWEI,三轮车,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,驾驶区,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,方向手柄,HAS,GOWEI
+方向手柄,黑色的握把,HAS,GOWEI
+方向手柄,中央的数字仪表显示屏,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,黑色货架,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,老年人,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,女性,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,外观,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,质量,HAS,GOWEI
+红色的GOWEI品牌电动三轮车,性能,HAS,GOWEI
+GOWEI,GOWEI3.0-8真空轮胎休闲电动三轮车,HAS,GOWEI
+电动车部件,蓝色的塑料箱,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,后轮,HAS,GOWEI
+电动车,尾灯,HAS,GOWEI
+电动车,安全性,HAS,GOWEI
+电动车,美观,HAS,GOWEI
+GOWEI 外卖车,外卖电动车,HAS,GOWEI
+GOWEI 外卖车,展示设计,HAS,GOWEI
+GOWEI 外卖车,结构特点,HAS,GOWEI
+GOWEI 外卖车,颜色,HAS,GOWEI
+GOWEI 外卖车,商标,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+电动车,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 外卖车,外卖员,HAS,GOWEI
+GOWEI 外卖车,车辆,HAS,GOWEI
+GOWEI EEC状态电动三轮车,电动三轮车,HAS,GOWEI
+电动三轮车,三轮车,HAS,GOWEI
+电动三轮车,车头,HAS,GOWEI
+电动三轮车,侧门,HAS,GOWEI
+电动三轮车,货舱,HAS,GOWEI
+电动三轮车,动态设计,HAS,GOWEI
+电动三轮车,实用特性,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI60v20ah铅酸电池休闲电动三轮车,电动三轮车,HAS,GOWEI
+电动三轮车,展示厅,HAS,GOWEI
+电动三轮车,浅蓝色三轮车,HAS,GOWEI
+电动三轮车,红色三轮车,HAS,GOWEI
+电动三轮车,白色三轮车,HAS,GOWEI
+电动三轮车,开放式座位设计,HAS,GOWEI
+电动三轮车,全封闭的驾驶舱,HAS,GOWEI
+电动三轮车,多样性,HAS,GOWEI
+电动三轮车,适用性,HAS,GOWEI
+植物,自然的氛围,HAS,GOWEI
+Jiangsu GOWEI Motors Co. Ltd,主入口,HAS,GOWEI
+Jiangsu GOWEI Motors Co. Ltd,现代风格的四层建筑,HAS,GOWEI
+Jiangsu GOWEI Motors Co. Ltd,黑色石碑,HAS,GOWEI
+Jiangsu GOWEI Motors Co. Ltd,江苏国威汽车有限公司,HAS,GOWEI
+黑色石碑,红色的花朵,HAS,GOWEI
+黑色石碑,绿色植被,HAS,GOWEI
+现代风格的四层建筑,三面旗帜,HAS,GOWEI
+晴朗的天气,宁静而庄严的场景,HAS,GOWEI
+艳阳高照,宁静而庄严的场景,HAS,GOWEI
+GOWEI公司大门形象,主入口,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,头灯,HAS,GOWEI
+头灯,前灯设计,HAS,GOWEI
+头灯,技术细节,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+GOWEI 外卖车,外卖订单,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI电动三轮车,蓝色的电动三轮车,HAS,GOWEI
+GOWEI电动三轮车,实用性,HAS,GOWEI
+GOWEI电动三轮车,草地,HAS,GOWEI
+GOWEI电动三轮车,美国用户,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+GOWEI 装柜,大型货车,HAS,GOWEI
+GOWEI 装柜,装货地点,HAS,GOWEI
+工作人员,喷枪设备,HAS,GOWEI
+喷枪设备,喷漆处理,HAS,GOWEI
+喷漆处理,部件,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+电动车,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI,GOWEI电动两轮车展厅,HAS,GOWEI
+GOWEI电动两轮车展厅,照片,HAS,GOWEI
+GOWEI电动两轮车展厅,环境,HAS,GOWEI
+GOWEI电动两轮车展厅,电动两轮车,HAS,GOWEI
+GOWEI电动两轮车展厅,展示区,HAS,GOWEI
+展示区,展示台,HAS,GOWEI
+GOWEI电动两轮车展厅,背景幕墙,HAS,GOWEI
+背景幕墙,企业宣传语,HAS,GOWEI
+背景幕墙,图案,HAS,GOWEI
+GOWEI电动两轮车展厅,场景,HAS,GOWEI
+GOWEI,工作人员,HAS,GOWEI
+GOWEI,电动车部件,HAS,GOWEI
+GOWEI,输送带,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,烤漆工艺流程,HAS,GOWEI
+GOWEI,视频,HAS,GOWEI
+GOWEI休闲电动三轮车,仪表盘,HAS,GOWEI
+GOWEI休闲电动三轮车,速度,HAS,GOWEI
+GOWEI休闲电动三轮车,电量,HAS,GOWEI
+GOWEI休闲电动三轮车,用户界面设计,HAS,GOWEI
+GOWEI 外卖车,外卖电动车,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,12辆4000W的极速版,HAS,GOWEI
+GOWEI CP900电动两轮车,车辆的型号,HAS,GOWEI
+GOWEI CP900电动两轮车,高性能,HAS,GOWEI
+Vespa,Vespa电动车,HAS,GOWEI
+Vespa电动车,电动车,HAS,GOWEI
+电动车,侧面线条,HAS,GOWEI
+电动车,设计细节,HAS,GOWEI
+GOWEI CP900电动两轮车,支撑脚架,HAS,GOWEI
+支撑脚架,设计,HAS,GOWEI
+支撑脚架,材质,HAS,GOWEI
+脚架,设计,HAS,GOWEI
+脚架,材质,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车刹车系统,HAS,GOWEI
+GOWEI CP900电动两轮车,制动技术,HAS,GOWEI
+GOWEI CP900电动两轮车,制动盘,HAS,GOWEI
+GOWEI CP900电动两轮车,驾驶安全性,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+喷漆过程,涂层,HAS,GOWEI
+工作人员,喷漆过程,HAS,GOWEI
+复杂形状部件,喷漆过程,HAS,GOWEI
+GOWEI 外卖车测评,外卖车,HAS,GOWEI
+外卖车,实用性,HAS,GOWEI
+外卖车,灵活性,HAS,GOWEI
+工作人员,最终质检,HAS,GOWEI
+工作人员,部件,HAS,GOWEI
+部件,包装,HAS,GOWEI
+包装,出货,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI,电动两轮车,HAS,GOWEI
+GOWEI,展厅,HAS,GOWEI
+GOWEI,现代装潢,HAS,GOWEI
+GOWEI,介绍材料,HAS,GOWEI
+GOWEI,广告牌,HAS,GOWEI
+GOWEI电动两轮车展厅,电动两轮车,HAS,GOWEI
+电动两轮车,颜色,HAS,GOWEI
+电动两轮车,型号,HAS,GOWEI
+展厅,灰色窗帘,HAS,GOWEI
+展厅,光滑地面,HAS,GOWEI
+展厅,展示空间,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+GOWEI休闲电动三轮车,顶部保护架,HAS,GOWEI
+GOWEI休闲电动三轮车,后部设计,HAS,GOWEI
+GOWEI休闲电动三轮车,侧后方造型,HAS,GOWEI
+部件,冷却区,HAS,GOWEI
+部件,特制架子,HAS,GOWEI
+冷却区,自然冷却,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+ROCKET,ROCKET电动车,HAS,GOWEI
+ROCKET电动车,车辆,HAS,GOWEI
+ROCKET电动车,设计线条,HAS,GOWEI
+ROCKET电动车,储物箱,HAS,GOWEI
+ROCKET电动车,手把,HAS,GOWEI
+ROCKET电动车,灯具,HAS,GOWEI
+ROCKET电动车,信号灯,HAS,GOWEI
+ROCKET电动车,照明,HAS,GOWEI
+ROCKET电动车,指示标识,HAS,GOWEI
+ROCKET电动车,颜色,HAS,GOWEI
+颜色,白色,HAS,GOWEI
+颜色,棕色,HAS,GOWEI
+ROCKET电动车,风格,HAS,GOWEI
+ROCKET电动车,ROCKET电动车展示视频,HAS,GOWEI
+GOWEI 外卖车,测评,HAS,GOWEI
+GOWEI 装柜,工人,HAS,GOWEI
+GOWEI 装柜,卡车,HAS,GOWEI
+卡车,货物,HAS,GOWEI
+GOWEI CP900电动两轮车,电动摩托车,HAS,GOWEI
+电动摩托车,前轮,HAS,GOWEI
+电动摩托车,CNC制动系统,HAS,GOWEI
+电动摩托车,先进制动技术,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 装柜,机动托盘,HAS,GOWEI
+机动托盘,轮胎,HAS,GOWEI
+机动托盘,金属结构,HAS,GOWEI
+机动托盘,装备,HAS,GOWEI
+工厂,流水线,HAS,GOWEI
+工厂,清洁流水线,HAS,GOWEI
+工厂,产品质量控制,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+GOWEI,电动两轮车,HAS,GOWEI
+GOWEI,展厅,HAS,GOWEI
+GOWEI,照片,HAS,GOWEI
+GOWEI,电动摩托车,HAS,GOWEI
+GOWEI,电动踏板车,HAS,GOWEI
+GOWEI,说明牌,HAS,GOWEI
+GOWEI,广告牌,HAS,GOWEI
+GOWEI,商业环境,HAS,GOWEI
+GOWEI,光滑的白色地面,HAS,GOWEI
+GOWEI,现代,HAS,GOWEI
+GOWEI,整洁,HAS,GOWEI
+GOWEI CP900电动两轮车,CNC制动系统,HAS,GOWEI
+GOWEI CP900电动两轮车,前轮,HAS,GOWEI
+GOWEI CP900电动两轮车,泥板,HAS,GOWEI
+GOWEI CP900电动两轮车,车辆,HAS,GOWEI
+GOWEI CP900电动两轮车,高品质制造,HAS,GOWEI
+GOWEI,女性驾驶者,HAS,GOWEI
+GOWEI,蓝色人行道,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,休闲环境,HAS,GOWEI
+GOWEI,通勤环境,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 装柜,货车,HAS,GOWEI
+货车,集装箱,HAS,GOWEI
+货车,车身侧面,HAS,GOWEI
+货车,车轮,HAS,GOWEI
+货车,行驶状态,HAS,GOWEI
+集装箱,MAERSK,HAS,GOWEI
+GOWEI,GOWEI电动三轮车,HAS,GOWEI
+GOWEI,蓝色工作服,HAS,GOWEI
+GOWEI,工人,HAS,GOWEI
+GOWEI,电动叉车,HAS,GOWEI
+GOWEI,货物,HAS,GOWEI
+GOWEI,装柜,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,前轮,HAS,GOWEI
+GOWEI CP900电动两轮车,刹车系统,HAS,GOWEI
+刹车系统,320mm大尺寸碟刹片,HAS,GOWEI
+刹车系统,刹车卡钳,HAS,GOWEI
+GOWEI CP900电动两轮车,安全性,HAS,GOWEI
+GOWEI CP900电动两轮车,性能,HAS,GOWEI
+GOWEI 外卖车,电动车,HAS,GOWEI
+电动车,尾灯,HAS,GOWEI
+电动车,牌照部分,HAS,GOWEI
+电动车,夜间安全性能,HAS,GOWEI
+GOWEI,电动三轮车,HAS,GOWEI
+GOWEI,展厅,HAS,GOWEI
+GOWEI,照片,HAS,GOWEI
+电动三轮车,载货型号,HAS,GOWEI
+电动三轮车,载人型号,HAS,GOWEI
+展厅,灯具,HAS,GOWEI
+展厅,墙壁,HAS,GOWEI
+展厅,地砖,HAS,GOWEI
+展厅,展示台,HAS,GOWEI
+展示台,电动车配件,HAS,GOWEI
+展示台,资料,HAS,GOWEI
+展厅,专业的电动三轮车销售环境,HAS,GOWEI
+GOWEI,GOWEI电动三轮车展厅,HAS,GOWEI
+GOWEI 外卖车,外卖配送员,HAS,GOWEI
+GOWEI 外卖车,安全头盔,HAS,GOWEI
+GOWEI 外卖车,订单,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,后轮,HAS,GOWEI
+GOWEI CP900电动两轮车,刹车系统,HAS,GOWEI
+刹车系统,碟刹片,HAS,GOWEI
+GOWEI EEC状态电动三轮车,三轮车,HAS,GOWEI
+GOWEI EEC状态电动三轮车,驾驶室,HAS,GOWEI
+GOWEI EEC状态电动三轮车,货车部分,HAS,GOWEI
+GOWEI EEC状态电动三轮车,车辆结构,HAS,GOWEI
+GOWEI EEC状态电动三轮车,货舱空间,HAS,GOWEI
+GOWEI EEC状态电动三轮车,品牌标识,HAS,GOWEI
+电动车烤漆工艺流程,视频,HAS,GOWEI
+工作人员,喷漆后的处理工作,HAS,GOWEI
+喷漆后的处理工作,漆面,HAS,GOWEI
+漆面,质量,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,手把部分,HAS,GOWEI
+手把部分,CNC精工的制动和离合器手柄,HAS,GOWEI
+手把部分,高级的装备,HAS,GOWEI
+手把部分,精细的工艺,HAS,GOWEI
+GOWEI休闲电动三轮车,仪表盘,HAS,GOWEI
+GOWEI休闲电动三轮车,速度,HAS,GOWEI
+GOWEI休闲电动三轮车,电量,HAS,GOWEI
+GOWEI休闲电动三轮车,READY模式,HAS,GOWEI
+GOWEI休闲电动三轮车,SPORT模式,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+电动车,后轮,HAS,GOWEI
+后轮,减震器,HAS,GOWEI
+后轮,碟刹片,HAS,GOWEI
+碟刹片,220mm的碟刹片,HAS,GOWEI
+电动车,制动能力,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI,GOWEI EEC认证电动三轮车,HAS,GOWEI
+GOWEI,蓝色电动三轮车,HAS,GOWEI
+GOWEI,EEC认证,HAS,GOWEI
+GOWEI,大型蓝色货箱,HAS,GOWEI
+GOWEI,三轮车,HAS,GOWEI
+GOWEI,设计结构,HAS,GOWEI
+GOWEI,摩托车式的驾驶座,HAS,GOWEI
+GOWEI 休闲电动三轮车,电动三轮车,HAS,GOWEI
+电动三轮车,稳定性,HAS,GOWEI
+电动三轮车,舒适性,HAS,GOWEI
+GOWEI CP900电动两轮车,后轮220mm碟刹片,HAS,GOWEI
+GOWEI CP900电动两轮车,金色的卡钳,HAS,GOWEI
+GOWEI CP900电动两轮车,时尚的配色,HAS,GOWEI
+GOWEI CP900电动两轮车,设计,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,前把,HAS,GOWEI
+GOWEI CP900电动两轮车,显示面板区域,HAS,GOWEI
+GOWEI CP900电动两轮车,现代设计,HAS,GOWEI
+GOWEI CP900电动两轮车,流线型设计,HAS,GOWEI
+GOWEI CP900电动两轮车,CNC标识,HAS,GOWEI
+GOWEI CP900电动两轮车,独特造型,HAS,GOWEI
+GOWEI,休闲电动三轮车,HAS,GOWEI
+休闲电动三轮车,坐座,HAS,GOWEI
+休闲电动三轮车,遮阳篷,HAS,GOWEI
+休闲电动三轮车,防晒功能,HAS,GOWEI
+休闲电动三轮车,车身颜色,HAS,GOWEI
+车身颜色,米色,HAS,GOWEI
+车身颜色,黑色,HAS,GOWEI
+休闲电动三轮车,后置的篮子,HAS,GOWEI
+后置的篮子,物品,HAS,GOWEI
+休闲电动三轮车,整体结构,HAS,GOWEI
+整体结构,现代化,HAS,GOWEI
+休闲电动三轮车,休闲出行,HAS,GOWEI
+GOWEI,EEC认证,HAS,GOWEI
+GOWEI,蓝色的电动三轮车,HAS,GOWEI
+GOWEI,三轮车,HAS,GOWEI
+GOWEI,GOWEI EEC认证电动三轮车,HAS,GOWEI
+三轮车,货物载体,HAS,GOWEI
+三轮车,折叠的栅栏,HAS,GOWEI
+三轮车,整体构造,HAS,GOWEI
+三轮车,载货效率,HAS,GOWEI
+三轮车,驾驶安全,HAS,GOWEI
+GOWEI,GOWEI CP900,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900,车辆,HAS,GOWEI
+GOWEI CP900,正面,HAS,GOWEI
+GOWEI CP900,设计细节,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+电动车,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI 装柜,红衣工人,HAS,GOWEI
+GOWEI 装柜,卡车,HAS,GOWEI
+GOWEI 装柜,大型纸箱,HAS,GOWEI
+GOWEI 装柜,工人,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,前灯设计,HAS,GOWEI
+GOWEI CP900电动两轮车,灯具设计,HAS,GOWEI
+GOWEI CP900电动两轮车,照明性能,HAS,GOWEI
+GOWEI,蓝色的GOWEI品牌电动三轮车,HAS,GOWEI
+GOWEI,EEC认证,HAS,GOWEI
+蓝色的GOWEI品牌电动三轮车,后斗,HAS,GOWEI
+后斗,货物,HAS,GOWEI
+蓝色的GOWEI品牌电动三轮车,整体设计,HAS,GOWEI
+整体设计,商业用途,HAS,GOWEI
+GOWEI,GOWEI EEC认证电动三轮车,HAS,GOWEI
+GOWEI,大型卡车,HAS,GOWEI
+大型卡车,货物,HAS,GOWEI
+大型卡车,集装箱,HAS,GOWEI
+大型卡车,目的地,HAS,GOWEI
+GOWEI,GOWEI 装柜,HAS,GOWEI
+GOWEI CP900电动两轮车,高精度CNC铝制减震,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,舒适性,HAS,GOWEI
+GOWEI CP900电动两轮车,稳定性,HAS,GOWEI
+GOWEI,GOWEI CP900,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900,动感设计,HAS,GOWEI
+GOWEI CP900,运动风格,HAS,GOWEI
+GOWEI,蓝色的GOWEI牌电动三轮车,HAS,GOWEI
+GOWEI,品牌标志,HAS,GOWEI
+蓝色的GOWEI牌电动三轮车,前承载箱,HAS,GOWEI
+蓝色的GOWEI牌电动三轮车,前大灯,HAS,GOWEI
+蓝色的GOWEI牌电动三轮车,仪表盘,HAS,GOWEI
+蓝色的GOWEI牌电动三轮车,整体造型,HAS,GOWEI
+GOWEI,GOWEI EEC认证电动三轮车,HAS,GOWEI
+GOWEI工厂,客户,HAS,GOWEI
+GOWEI工厂,电动三轮车,HAS,GOWEI
+GOWEI工厂,蓝色的电动三轮车,HAS,GOWEI
+GOWEI工厂,试驾,HAS,GOWEI
+GOWEI工厂,环境,HAS,GOWEI
+GOWEI工厂,实地体验,HAS,GOWEI
+电动三轮车,蓝色的电动三轮车,HAS,GOWEI
+客户,试驾,HAS,GOWEI
+GOWEI休闲电动三轮车,三轮车,HAS,GOWEI
+GOWEI休闲电动三轮车,品牌标志,HAS,GOWEI
+GOWEI休闲电动三轮车,车灯,HAS,GOWEI
+GOWEI休闲电动三轮车,设计现代,HAS,GOWEI
+GOWEI 装柜,仓库,HAS,GOWEI
+GOWEI工厂,电动三轮车,HAS,GOWEI
+GOWEI工厂,试驾活动,HAS,GOWEI
+GOWEI工厂,客户体验,HAS,GOWEI
+GOWEI工厂,产品展示,HAS,GOWEI
+GOWEI工厂,建筑,HAS,GOWEI
+GOWEI工厂,天气,HAS,GOWEI
+GOWEI工厂,环境,HAS,GOWEI
+电动三轮车,试驾活动,HAS,GOWEI
+电动三轮车,客户体验,HAS,GOWEI
+电动三轮车,产品展示,HAS,GOWEI
+GOWEI,GOWEI CP900电动两轮车,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,前部,HAS,GOWEI
+GOWEI CP900电动两轮车,灯光,HAS,GOWEI
+GOWEI CP900电动两轮车,车标配置,HAS,GOWEI
+GOWEI CP900电动两轮车,电动车,HAS,GOWEI
+GOWEI CP900电动两轮车,整体设计,HAS,GOWEI
+GOWEI CP900电动两轮车,颜色搭配,HAS,GOWEI
+GOWEI品牌,不锈钢电动三轮车,HAS,GOWEI
+不锈钢电动三轮车,不锈钢货箱,HAS,GOWEI
+GOWEI 装柜,工人,HAS,GOWEI
+GOWEI 装柜,技术设备,HAS,GOWEI
+GOWEI 装柜,机械,HAS,GOWEI
+GOWEI 装柜,机器,HAS,GOWEI
+GOWEI 装柜,设定,HAS,GOWEI
+GOWEI 装柜,维护,HAS,GOWEI
+GOWEI EEC状态电动三轮车,电动三轮车,HAS,GOWEI
+GOWEI EEC状态电动三轮车,尾灯,HAS,GOWEI
+GOWEI EEC状态电动三轮车,车厢,HAS,GOWEI
+GOWEI EEC状态电动三轮车,载货能力,HAS,GOWEI
+GOWEI EEC状态电动三轮车,车身结构,HAS,GOWEI
+GOWEI牌不锈钢电动三轮车,车厢部分,HAS,GOWEI
+GOWEI牌不锈钢电动三轮车,全钢结构,HAS,GOWEI
+GOWEI牌不锈钢电动三轮车,护栏,HAS,GOWEI
+GOWEI牌不锈钢电动三轮车,车厢内部,HAS,GOWEI
+车厢内部,运输多种物品,HAS,GOWEI
+图片,户外的道路,HAS,GOWEI
+图片,建筑,HAS,GOWEI
+图片,城市的商业区,HAS,GOWEI
+图片,工业区,HAS,GOWEI
+GOWEI,不锈钢电动三轮车,HAS,GOWEI
+GOWEI,图片,HAS,GOWEI
+不锈钢电动三轮车,现代设计,HAS,GOWEI
+不锈钢电动三轮车,亮银色的车身,HAS,GOWEI
+不锈钢电动三轮车,黑色轮胎,HAS,GOWEI
+不锈钢电动三轮车,大型的透明灯具,HAS,GOWEI
+不锈钢电动三轮车,院子,HAS,GOWEI
+院子,树木,HAS,GOWEI
+院子,现代建筑风格的建筑,HAS,GOWEI
+院子,明亮的日光,HAS,GOWEI
+GOWEI 电动车装柜,电动车,HAS,GOWEI
+GOWEI 电动车装柜,工作人员,HAS,GOWEI
+GOWEI 电动车装柜,红色叉车,HAS,GOWEI
+GOWEI 电动车装柜,大型集装箱,HAS,GOWEI
+大型集装箱,MAERSK,HAS,GOWEI
+包装箱,Forte,HAS,GOWEI
+GOWEI 电动车装柜,场景,HAS,GOWEI
+场景,室外,HAS,GOWEI
+场景,混凝土,HAS,GOWEI
+场景,傍晚,HAS,GOWEI
+场景,天空,HAS,GOWEI
+GOWEI 电动车装柜,包装好的电动车,HAS,GOWEI
+GOWEI 电动车装柜,操作员,HAS,GOWEI
+GOWEI 电动车装柜,红色的叉车,HAS,GOWEI
+GOWEI 电动车装柜,大型包裹,HAS,GOWEI
+GOWEI 电动车装柜,车间,HAS,GOWEI
+GOWEI 电动车装柜,卡车,HAS,GOWEI
+GOWEI 电动车装柜,货柜,HAS,GOWEI
+GOWEI 电动车装柜,天蓝的天空,HAS,GOWEI
+GOWEI 电动车装柜,建筑物,HAS,GOWEI
+GOWEI,电动车,HAS,GOWEI
+GOWEI,货柜车,HAS,GOWEI
+GOWEI,纸箱,HAS,GOWEI
+GOWEI,工作气氛,HAS,GOWEI
+GOWEI 电动车装柜,电动车,HAS,GOWEI
+GOWEI 电动车装柜,货柜车,HAS,GOWEI
+GOWEI 电动车装柜,工人,HAS,GOWEI
+GOWEI牌电动车,货柜,HAS,GOWEI
+GOWEI牌电动车,保护膜,HAS,GOWEI
+集装箱,货物,HAS,GOWEI
+叉车,叉车司机,HAS,GOWEI
+物料,电线卷,HAS,GOWEI
+GOWEI 电动车装柜,GOWEI牌电动车,HAS,GOWEI
+江苏GOWEI摩托车公司,电动两轮车,HAS,GOWEI
+江苏GOWEI摩托车公司,公司介绍横幅,HAS,GOWEI
+江苏GOWEI摩托车公司,公司信息,HAS,GOWEI
+江苏GOWEI摩托车公司,产品特点,HAS,GOWEI
+电动两轮车,客户,HAS,GOWEI
+场景,专业感,HAS,GOWEI
+场景,现代感,HAS,GOWEI
+地毯,蓝色,HAS,GOWEI
+地毯,白色花朵图案,HAS,GOWEI
